@@ -1,0 +1,11 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.log
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# Exclude large/runtime data: 
+# The final RAG vector store will be excluded in the NEXT project.
+# We include the *output* CSVs so you can share the clean data.
