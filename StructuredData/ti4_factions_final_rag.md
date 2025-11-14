@@ -1,0 +1,1351 @@
+[FACTION: Argent Flight]
+- Home System Name: Ylir / Valk / Avar
+- Home System Planets: 0/2, 2/0, 1/1
+- Commodities: 3
+- Ability: Zeal: You always vote first during the agenda phase. When you cast at least 1 vote, cast 1 additional vote for each player in the game, including you.
+- Ability: Raid Formation: When 1 or more of your units use ANTI-FIGHTER BARRAGE, for each hit produced in excess of your opponent's fighters, choose 1 of your opponent's ships that has Sustain Damage to become damaged.
+- PN: Strike Wing Ambuscade: When 1 or more of your units make a roll for a unit ability: Choose 1 of those units to roll 1 additional die. Then, return this card to the Argent player.
+- Starting Fleet Units: 1 Carrier, 2 Destroyers, 2 Fighters, 5 Infantry, 1 Space Dock, 1 PDS
+- Starting Techs (Choices): Choose two of the following: Neural Motivator (0), Sarween Tools (0), Plasma Scoring (0)
+- Unit: Strike Wing Alpha I
+- Unit Type: Destroyer
+- Unit Cost: 1
+- Unit Combat: 8
+- Unit Move: 2
+- Unit Capacity: 1
+- Unit AFB: 9 (x2)
+- Tech Prerequisite: (RR)
+- Tech Type: Destroyer Upgrade
+- Tech Combat: 7
+- Tech AFB: 6 (x3)
+- Tech Additional Effect: When this unit uses ANTI-FIGHTER BARRAGE, each result of 9 or 10 also destroys 1 of your opponent's infantry in the space area of the active system.
+- Tech Prerequisite: (Y)
+- Tech: Aerie Hololattice: Other players cannot move ships through systems that contain your structures. Each planet that contains 1 or more of your structures gains the PRODUCTION: 1 ability as if it were a unit.
+- BT Name: Wing Transfer
+- BT Prerequisite: B$\leftrightarrow$Y
+- BT Effect: When you activate a system that contains only your units, you may place command tokens from your reinforcements into any systems adjacent to that system that contain only your units; at the end of this action, you may move ships among the active system and systems adjacent to it that contain your command tokens.
+- Ship: Quetzecoatl
+- Ship Cost: 8
+- Ship Combat: 7 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. Other players cannot use SPACE CANNON against your ships in this system.
+- Mech: Aerie Sentinel
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. This unit does not count against capacity if it is being transported or if it is in a space area with 1 or more of your ships that have capacity values.
+- Agent: Trilossa Aun Mirik
+- Agent Effect: When a player produces ground forces in a system: You may exhaust this card; that player may place those units on any planets they control in that system and any adjacent systems.
+- Commander: Trrakan Aun Zulok
+- Commander Unlock: Have 6 units that have ANTI-FIGHTER BARRAGE, SPACE CANNON, or BOMBARDMENT on the game board.
+- Commander Effect: When 1 or more of your units make a roll for a unit ability: You may choose 1 of those units to roll 1 additional die.
+- Hero Name: Mirik Aun Sissiri
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Move any number of your ships from any systems to any number of other systems that contain 1 of your command tokens and no other players' ships. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Barony of Letnev]
+- Home System Name: Arc Prime / Wren Terra
+- Home System Planets: 4/0, 2/1
+- Commodities: 2
+- Ability: Munitions Reserves: At the start of each round of space combat, you may spend 2 trade goods; you may reroll any number of your dice during that combat round.
+- Ability: Armada: The maximum number of non-fighter ships you can have in each system is equal to 2 more than the number of tokens in your fleet pool.
+- PN: War Funding $\Omega$ (Codex 1): After you and your opponent roll dice during space combat: You may reroll all of your opponent's dice. You may reroll any number of your dice. Then, return this card to the Letnev player.
+- Starting Fleet Units: 1 Dreadnought, 1 Carrier, 1 Destroyer, 1 Fighter, 3 Infantry, 1 Space Dock
+- Starting Techs: Antimass Deflectors (0), Plasma Scoring (0)
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (RR)
+- Tech: Non-Euclidean Shielding: When one of your units uses Sustain Damage, cancel 2 hits instead of 1.
+- Tech Prerequisite: (Y)
+- Tech: L4 Disruptors: During an invasion, units cannot use SPACE CANNON against your units.
+- BT Name: Gravleash Maneuvers
+- BT Prerequisite: B$\leftrightarrow$R
+- BT Effect (Combat): Before you roll dice during space combat, apply +X to the results of 1 of your ship's rolls, where X is the number of ship types you have in the combat.
+- BT Effect (Movement): During movement, your non-fighter ships' move values are equal to the highest move value amongst moving ships in the system they started in.
+- Ship: Arc Secundus
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. BOMBARDMENT 5 (x3). Other players' units in this system lose Planetary Shield. At the start of each space combat round, repair this ship.
+- Mech: Dunlain Reaper
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. DEPLOY: At the start of a round of ground combat, you may spend 2 resources to replace 1 of your infantry in that combat with 1 mech.
+- Agent: Viscount Unlenn
+- Agent Effect: At the start of a space combat round: You may exhaust this card to choose 1 ship in the active system; that ship rolls 1 additional die during this combat round.
+- Commander: Rear Admiral Farran
+- Commander Unlock: Have 5 non-fighter ships in 1 system.
+- Commander Effect: After 1 of your units uses Sustain Damage: You may gain 1 trade good.
+- Hero Name: Darktalon Treilla
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Place this card near the game board; the number of non-fighter ships you can have in systems is not limited by laws or by the number of command tokens in your fleet pool during this game round. At the end of that game round, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Clan of Saar]
+- Home System Name: Lisis II / Ragh
+- Home System Planets: 1/0, 2/1
+- Commodities: 3
+- Ability: Scavenge: After you gain control of a planet, gain 1 trade good.
+- Ability: Nomadic: You can score objectives even if you do not control the planets in your home system.
+- PN: Ragh's Call: After you commit 1 or more units to land on a planet: Remove all of the Saar player's ground forces from that planet and place them on a planet controlled by the Saar player. Then, return this card to the Saar player.
+- Starting Fleet Units: 2 Carriers, 1 Cruiser, 2 Fighters, 4 Infantry, 1 Space Dock
+- Starting Techs: Antimass Deflectors (0)
+- Unit: Floating Factory I
+- Unit Type: Space Dock (Unique)
+- Unit Move: 1
+- Unit Capacity: 4
+- Unit Production: 5
+- Unit Abilities: Placed in a space area instead of on a planet. Can move and retreat as if it were a ship. Destroyed if blockaded.
+- Tech Prerequisite: (B)
+- Tech Effect 1 (Safety): Other players cannot activate asteroid fields that contain 1 or more of your ships.
+- Tech Effect 2 (Production): At the start of your turn during the action phase, you may produce 1 unit in a system that contains at least 1 of your units that has PRODUCTION.
+- Tech Prerequisite: (YY)
+- Tech Type: Space Dock Upgrade
+- Tech Move: 2
+- Tech Capacity: 5
+- Tech Production: 7
+- BT Name: Deorbit Barrage
+- BT Prerequisite: B$\leftrightarrow$R
+- BT Effect: ACTION: Exhaust this card and spend any amount of resources to choose a planet up to 2 systems away from an asteroid field that contains your ships; roll a number of dice equal to the amount spent and assign 1 hit to a ground force on that planet for each roll of 4 or greater.
+- Ship: Son of Ragh
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. ANTI-FIGHTER BARRAGE 6 (x4).
+- Mech: Scavenger Zeta
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. DEPLOY: After you gain control of a planet, you may spend 1 trade good to place 1 mech on that planet.
+- Agent: Captain Mendosa
+- Agent Effect: After a player activates a system: You may exhaust this card to increase the move value of 1 of that player's ships to match the move value of the ship on the game board that has the highest move value.1
+- Commander: Rowl Sarring
+- Commander Unlock: Have 3 space docks on the game board.
+- Commander Effect: When you produce fighters or infantry: You may place each of those units at any of your space docks that are not blockaded.
+- Hero Name: Gurno Aggero
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Choose 1 system that is adjacent to 1 of your space docks. Destroy all other players' infantry and fighters in that system. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Council Keleres (Codex 3)]
+- Home System Name: Argent Flight, Mentak Coalition, or Xxcha Kingdom Home System + Keleres - Legendary
+- Home System Planets: Argent (0/2, 2/0, 1/1), Mentak (4/1), Xxcha (2/3, 1/1). Legendary: Custodia Vigilia: 2/3.
+- Custodia Vigilia Ability: While you control Mecatol Rex, it gains SPACE CANNON 5 and PRODUCTION 3. Gain 2 command tokens when another player scores VP using Imperial.
+- Commodities: 2
+- Ability: The Tribunii: During setup, choose an unplayed faction from among the Mentak, the Xxcha, and the Argent Flight; take that faction's home system, command tokens, and control markers. Additionally, take the Keleres hero that corresponds to that fac1tion.
+- Ability: Council Patronage: Replenish your commodities at the start of the strategy phase, then gain 1 trade good.
+- Ability 3 Name: Law's Order
+- Ability 3 Effect: You may spend 1 Trade Good or Commodity to treat all laws as blank until the end of the turn.
+- PN: Keleres Rider: After an agenda is revealed: You cannot vote on this agenda. Predict aloud an outcome of this agenda. If your prediction is correct, draw 1 action card and gain 2 trade goods. Then, return this card to the Keleres player.
+- Starting Fleet Units: 2 Carriers, 1 Cruiser, 2 Fighters, 2 Infantry, 1 Space Dock
+- Starting Techs: Choose 2 non-faction technologies owned by other players
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (Y)
+- Tech: Executive Order: ACTION: Exhaust this card and draw the top or bottom card of the agenda deck. Players immediately vote on this agenda as if you were the speaker; you can spend trade goods and resources on this agenda as if they were votes.
+- Tech Prerequisite: (YY)
+- Tech: Agency Supply Network: Once per action, when you resolve a unit's PRODUCTION ability, you may resolve another of your unit's PRODUCTION abilities in any system.
+- BT Name: I.I.H.Q. Modernization
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect: When you gain this card, gain the Custodia Vigilia planet card and its legendary planet ability card. You are neighbours with all players that have units or control planets in or adjacent to the Mecatol Rex system.
+- Ship: Artemiris
+- Ship Cost: 8
+- Ship Combat: 7 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. Other players must spend 2 influence to activate the system that contains this ship.
+- Mech: Omiopiares
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. Other players must spend 1 influence to commit ground forces to the planet that contains this unit.
+- Agent: Xander Alexin Victori III
+- Agent Effect: At any time: You may exhaust this card to allow any player to spend commodities as if they were trade goods.
+- Commander: Suffi An
+- Commander Unlock: Spend 1 trade good after you play an action card that has a component action
+- Commander Effect: After you perform a component action: You may perform an additional action.
+- Hero Name: Argent Flight - Overwing Zeta
+- Hero Effect: Start of space combat in a system that contains a planet you control: Place your flagship and up to a total of 2 cruisers and/or destroyers from your reinforcements in the active system. Then, purge this card.
+- Hero Name: Mentak Coalition - Harka Leeds
+- Hero Effect: ACTION: Reveal cards from the action deck until you reveal 3 action cards that have component actions. Draw those cards and shuffle the rest back into the action card deck. Then, purge this card.
+- Hero Name: Xxcha Kingdom - Odlynn Myrr
+- Hero Effect: After an agenda is revealed: You may cast up to 6 additional votes on this agenda. Predict aloud an outcome of this agenda. For each player that votes for another outcome, gain 1 trade good and 1 command token. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Crimson Rebellion (TE)]
+- Home System Name: Ahk Creuxx / The Sorrow (Wormhole Gate)
+- Home System Planets: Ahk Creuxx: 4/2. The Sorrow: Tile 94, placed where HS would be (Inactive Breach).
+- Commodities: 4
+- Ability: Sundered: You cannot use wormholes other than epsilon wormholes. Other players' units that move or are placed into your home system are destroyed.
+- Ability: Incursion: When you activate a system that contains a breach, you may flip that breach; systems that contain active breaches are adjacent. At the end of the status phase, any player with ships in a system that contains an active breach may remove that breach.
+- Ability 3 Name: Sea of Tears
+- Ability 3 Effect: When you create the game board, place the Sorrow (tile 94) where your home system would be placed, and place a inactive breach in it. The Sorrow is not a home system. Then, place your home system (tile 118) in your play area.
+- PN: Sever: ACTION: Place this card faceup in your play area and place the sever token in a system that contains your units; wormholes in that system have no effect during movement. Remove the sever token and return this card to the Rebellion player at the end of the status phase.
+- Starting Fleet Units: 1 Dreadnought, 1 Carrier, 1 Destroyer, 2 Fighters, 4 Infantry, 1 Space dock, 2 PDS
+- Starting Techs: Choose one blue or red technology with no prerequisites.
+- Unit: Exile I
+- Unit Type: Destroyer (Unique)
+- Unit Cost: 1
+- Unit Combat: 8 (x1)
+- Unit Move: 2
+- Unit AFB: 9 (x2)
+- Tech Prerequisite: (RR)
+- Tech Type: Destroyer Upgrade
+- Tech Combat: 7 (x1)
+- Tech AFB: 6 (x3)
+- Tech Abilities: At the end of any player's combat in this unit's system or up to 2 systems away, you may place 1 active or inactive breach in that system.
+- Tech Prerequisite: (Y)
+- Tech: Subatomic Splicer: When one of your ships is destroyed, you may produce a ship of the same type at a space dock in your home system.
+- BT Name: Resonance Generator
+- BT Prerequisite: B$\leftrightarrow$R
+- BT Effect (Movement): During your tactical actions, apply +1 to the move value of each of your ships that starts its movement in your home system or in a system that contains an active breach.
+- BT Effect (Action): ACTION: Exhaust this card to flip any breach or place an active breach in a non-home system that contains your units.
+- Ship: Quietus
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. While this unit is in a system that contains an active breach, other players units in systems with active breaches lose all their unit abilities.
+- Mech: Revenant
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. DEPLOY: During the "Commit Ground Forces" step of your tactical action in a system that contains an active breach, you may commit 1 mech, even if you have no units in the system.
+- Agent: Ahk Ravin
+- Agent Effect: ACTION: Exhaust this card to choose 1 player. That player may swap the position of 2 of their ships in any systems; they may transport units when they swap.
+- Commander: Ahk Siever
+- Commander Unlock: Place a breach token in a system that contains another player's unit.
+- Commander Effect: At the end of a combat between any players: Gain 1 commodity or convert 1 of your commodities to a trade good.
+- Hero Name: Homesick Phantom
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: When you produce ships: You may place any of those ships onto this card. At the start of a space combat, you may purge this card to place all ships from this card into the active system.
+- nan: nan
+
+##################################################
+
+[FACTION: Deepwrought Scholarate (TE)]
+- Home System Name: Ikatena
+- Home System Planets: 4/4
+- Commodities: 3
+- Ability: Research Team: When ground forces are committed, if your units on that planet are not already coexisting, you may choose for your units to coexist.
+- Ability: Oceanbound: When your units begin coexisting on a planet, gain an ocean card and ready it. Any time you have more ocean cards than there are planets that contain your coexisting units, discard ocean cards until you do not.
+- PN: Share Knowledge: ACTION: Place this card faceup in your play area and gain 1 non-faction, non-unit upgrade technology that the Deepwrought player owns; place that technology on this card. Return that technology to the deck and this card to the Deepwrought player at the end of the status phase.
+- Starting Fleet Units: 1 Carrier, 2 Cruisers, 3 Fighters, 4 Infantry, 1 Space Dock, 1 PDS
+- Starting Techs: During Setup, research Technology twice.
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (G)
+- Tech: Radical Advancement: At the start of the status phase, you may replace one of your non-unit upgrade technologies with a technology of the same color that has exactly 1 more prerequisite.
+- Tech Prerequisite: (G)
+- Tech: Hydrothermal Mining: At the start of the status phase, gain 1 trade good for each ocean card in play.
+- BT Name: Visionaria Select
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect: ACTION: Exhaust this card to allow each other player to spend 3 trade goods and give you 1 promissory note. Each player that does may research a non-faction, non-unit upgrade technology. You also gain each technology researched in this way.
+- Ship: D.W.S. Luminous
+- Ship Cost: 8
+- Ship Combat: 7 (x2)
+- Ship Move: 1
+- Ship Capacity: 6
+- Ship Abilities: Sustain Damage. This ship can move through systems that contain your units, even if other players' units are present; if it would, apply +1 to its move value for each of those systems.
+- Mech: Eanautic
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. PRODUCTION 1. When another player activates this system, if this unit is coexisting, you may move it and any of your infantry on its planet to a planet you control in your home system.
+- Agent: Doctor Carrina
+- Agent Effect: When another player researches a technology: You may exhaust this card to allow that player to ignore 1 prerequisite; if they do, you may place 1 infantry from your reinforcements into coexistence on a non-home planet they control.
+- Commander: Aello
+- Commander Unlock: Have an ocean card in play.
+- Commander Effect: When another player spends resources to research a technology: That player may reduce the cost by 1; if they do, gain 1 commodity or convert 1 of your commodities to a trade good.
+- Hero Name: Ta Zern
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Purge this card and a non-unit upgrade technology you own or from your deck; then, purge all cards with the same name owned by other players and in other players' decks. Then, each player that purged a technology they owned researches another technology.
+- nan: nan
+
+##################################################
+
+[FACTION: Embers of Muaat]
+- Home System Name: Muaat
+- Home System Planets: 4/1
+- Commodities: 4
+- Ability: Star Forge: ACTION: Spend 1 token from your strategy pool to place either 2 fighters or 1 destroyer from your reinforcements in a system that contains 1 or more of your war suns.
+- Ability: Gashlai Physiology: Your ships can move through supernovas.
+- PN: Fires of the Gashlai: ACTION: Remove 1 token from the Muaat player's fleet pool and return it to his reinforcements. Then, gain your war sun unit upgrade technology card. Then, return this card to the Muaat Player.
+- Starting Fleet Units: 1 War Sun, 2 Fighters, 4 Infantry, 1 Space Dock
+- Starting Techs: Plasma Scoring (0)
+- Unit: Prototype War Sun I
+- Unit Type: War Sun (Unique)
+- Unit Cost: 12
+- Unit Combat: 3 (x3)
+- Unit Move: 1
+- Unit Capacity: 6
+- Unit Bombardment: 3 (x3)
+- Unit Abilities: Sustain Damage. Other players units in this system lose the Planetary Shield ability.
+- Tech Prerequisite: (RRRY)
+- Tech Type: War Sun Upgrade
+- Tech Cost: 10
+- Tech Combat: 3 (x3)
+- Tech Move: 3
+- Tech Capacity: 6
+- Tech Bombardment: 3 (x3)
+- Tech Abilities: Sustain Damage. Other players units in this system lose the Planetary Shield ability.
+- Tech Prerequisite: (RR)
+- Tech Effect 1 (Movement): Your ships can move into supernovas.
+- Tech Effect 2 (Production): Each supernova that contains 1 or more of your units gains the PRODUCTION 5 ability as if it were 1 of your units.
+- BT Name: Stellar Genesis
+- BT Prerequisite: R$\leftrightarrow$Y
+- BT Effect (Immediate): When you gain this card, place the Avernus planet token into a non-home system that is adjacent to a planet you control; gain control of and ready it.
+- BT Effect (Movement): After you move 1 of your war suns out of or through Avernus's system and into a non-home system, you may move the Avernus token with it.
+- BT Effect (Avernus Legendary Ability): ACTION: Exhaust this card to use the Embers of Muaat's STAR FORGE faction ability without spending a command token. (Avernus planet is 2/0)
+- Ship: The Inferno
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. ACTION: Spend 1 token from your strategy pool to place 1 cruiser in this unit's system.
+- Mech: Ember Colossus
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. When you use your Star Forge faction ability in this system or an adjacent system, you may place 1 infantry from your reinforcements with this unit.
+- Agent: Umbat
+- Agent Effect: ACTION: Exhaust this card to choose a player; that player may produce up to 2 units that each have a cost of 4 or less in a system that contains one of their war suns or their flagship.
+- Commander: Magmus
+- Commander Unlock: Produce a war sun.
+- Commander Effect: After you spend a token from your strategy pool: You may gain 1 trade good.
+- Hero Name: Adjudicator Ba'al
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: After you move a war sun into a non-home system other than Mecatol Rex: You may destroy all other players' units in that system and replace that system tile with the Muaat supernova tile. If you do, purge this card and each planet card that corresponds to the replaced system til1e.
+- nan: nan
+
+##################################################
+
+[FACTION: Emirates of Hacan]
+- Home System Name: Hercant / Arretze / Kamdorn
+- Home System Planets: 1/1, 2/0, 0/1
+- Commodities: 6
+- Ability: Masters of Trade: You do not have to spend a command token to resolve the secondary ability of the "Trade" strategy card.
+- Ability: Guild Ships: You can negotiate transactions with players who are not your neighbor.
+- Ability 3 Name: Arbiters
+- Ability 3 Effect: When you are negotiating a transaction, action cards can be exchanged as part of that transaction.
+- PN: Trade Convoys: ACTION: Place this card faceup in your play area. While this card is in your play area, you may negotiate transactions with players who are not your neighbor. If you activate a system that contains 1 or more of the Hacan player's units, return this card to the Hacan player.
+- Starting Fleet Units: 2 Carriers, 1 Cruiser, 2 Fighters, 4 Infantry, 1 Space Dock
+- Starting Techs: Antimass Deflectors (0), Sarween Tools (0)
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (YYY)
+- Tech: Quantum Datahub Node: At the end of the strategy phase, you may spend 1 token from your strategy pool and give another player 3 of your trade goods. If you do, give 1 of your strategy cards to that player and take 1 of his strategy cards.
+- Tech Prerequisite: (GG)
+- Tech: PRODUCTION Biomes: ACTION: Exhaust this card and spend 1 token from your strategy pool to gain 4 trade goods and choose 1 other player; that player gains 2 trade goods.
+- BT Name: Auto-Factories
+- BT Prerequisite: R$\leftrightarrow$Y
+- BT Effect: When you produce 3 or more non-fighter ships, place 1 command token from your reinforcements into your fleet pool.
+- Ship: Wrath of Kenara
+- Ship Cost: 8
+- Ship Combat: 7 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. After you roll a die during a space combat in this system, you may spend 1 trade good to apply +1 to the result.
+- Mech: Pride of Kenara
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. This planet's planet card may be traded as part of a transaction; if you do, move all of your units from this planet to another planet you control.
+- Agent: Carth of the Golden Sands
+- Agent Effect: During the action phase: You may exhaust this card to gain 2 commodities or replenish another player's commodities.
+- Commander: Gila the Silvertongue
+- Commander Unlock: Have 10 trade goods.
+- Commander Effect: When you cast votes: You may spend any number of trade goods; cast 2 additional votes for each trade good spent.
+- Hero Name: Harrugh Gefhara
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: When 1 or more of your units use PRODUCTION: You may reduce the cost of each of your units to 0 during this use of PRODUCTION. If you do, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Empyrean (POK)]
+- Home System Name: The Dark
+- Home System Planets: 3/4 (Nebula)
+- Commodities: 4
+- Ability: Voidborn: Nebulae do not affect your ships' movement.
+- Ability: Aetherpassage: After a player activates a system, you may allow that player to move their ships through system that contain your ships.
+- Ability 3 Name: Dark Whispers
+- Ability 3 Effect: During setup, take the additional Empyrean faction promissory note; you have 2 faction promissory notes.
+- PN: Blood Pact: ACTION: Place this card faceup in your play area. When you and the Empyrean player cast votes for the same outcome, cast 4 additional votes for that outcome. If you activate a system that contains 1 or more of the Empyrean player's units, return this card to the Empyrean player.
+- PN: Dark Pact: ACTION: Place this card faceup in your play area. When you give a number of commodities to the Empyrean player equal to your maximum commodity value, you each gain 1 trade good. If you activate a system that contains 1 or more of the Empyrean player's units, return this card to the Empyrean player.
+- Starting Fleet Units: 2 Carriers, 1 Destroyer, 2 Fighters, 4 Infantry, 1 Space Dock
+- Starting Techs: Dark Energy Tap (0)
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (BB)
+- Tech: Aetherstream: After you or one of your neighbors activates a system that is adjacent to an anomaly, you may apply +1 to move value of all of that player's ships during this tactical action.
+- Tech Prerequisite: (G)
+- Tech: Voidwatch: After a player moves ships into a system that contains 1 or more of your units, they must give you 1 promissory note from their hand, if able.
+- BT Name: Void Tether
+- BT Prerequisite: B$\leftrightarrow$G
+- BT Effect: When you activate a system that contains or is adjacent to a unit or planet you control, you may place or move 1 of your void tether tokens onto a border that system shares with another system; other players do not treat those systems as adjacent to each other unless you allow it.
+- Ship: Dynamo
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. After any player's unit in this system or an adjacent system uses Sustain Damage, you may spend 2 influence to repair that unit.
+- Mech: Watcher
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. You may remove this unit from a system that contains or is adjacent to another player's units to cancel an action card played by that player.
+- Agent: Acamar
+- Agent Effect: After a player moves ships into a system that does not contain any planets: You may exhaust this card; that player gains 1 command token.
+- Commander: Xuange
+- Commander Unlock: Be neighbors with all other players.
+- Commander Effect: After another player moves ships into a system that contains 1 of your command tokens: You may return that token to your reinforcements.
+- Hero Name: Conservator Procyon
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Place 1 frontier token in each system that does not contain any planets and does not already have a frontier token. Then, explore each frontier token that is in a system that contains 1 or more of your ships. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Federation of Sol]
+- Home System Name: Jord
+- Home System Planets: 4/2
+- Commodities: 4
+- Ability: Critical Drop: ACTION: Spend 1 token from your strategy pool to place 2 infantry from your reinforcements on 1 planet you control.
+- Ability: Versatile: When you gain command tokens during the status phase, gain 1 additional command token.
+- PN: Military Support: At the start of the Sol player's turn: Remove 1 token from the Sol player's strategy pool, if able, and return it to his reinforcements. Then, you may place 2 infantry from your reinforcements on any planet you control. Then, return this card to the Sol player.
+- Starting Fleet Units: 2 Carriers, 1 Destroyer, 3 Fighters, 5 Infantry, 1 Space Dock
+- Starting Techs: Neural Motivator (0), Antimass Deflector (0)
+- Unit: Advanced Carrier I
+- Unit Type: Carrier (Unique)
+- Unit Cost: 3
+- Unit Combat: 9
+- Unit Move: 1
+- Unit Capacity: 6
+- Unit: Spec Ops I
+- Unit Type: Infantry (Unique)
+- Unit Cost: 1 (x2)
+- Unit Combat: 7
+- Tech Prerequisite: (BB)
+- Tech Type: Carrier Upgrade
+- Tech Move: 2
+- Tech Capacity: 8
+- Tech Abilities: Sustain Damage.
+- Tech Prerequisite: (GG)
+- Tech Type: Infantry Upgrade
+- Tech Combat: 6
+- Tech Abilities: After this unit is destroyed, roll 1 die. If the result is 5 or greater, place the unit on this card. At the start of your next turn, place each unit that is on this card on a planet you control in your home system.
+- BT Name: Bellum Gloriosum
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect: When you produce a ship that has capacity, you may also produce any combination of ground forces or fighters up to that ship's capacity; they do not count against your PRODUCTION limit.
+- Ship: Genesis
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 1
+- Ship Capacity: 12
+- Ship Abilities: Sustain Damage. At the end of the status phase, place 1 infantry from your reinforcements in this system's space area.
+- Mech: ZS Thunderbolt M2
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. DEPLOY: After you use your Orbital Drop faction ability, you may spend 3 resources to place 1 mech on that planet.
+- Agent: Evelyn DeLouis
+- Agent Effect: At the start of a ground combat round: You may exhaust this card to choose 1 ground force in the active system; that ground force rolls 1 additional die during this combat round.
+- Commander: Claire Gibson
+- Commander Unlock: Control planets that have a combined total of at least 12 resources.
+- Commander Effect: At the start of a ground combat on a planet you control: You may place 1 infantry from your reinforcements on that planet.
+- Hero Name: Jace X, 4th Air Legion
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Remove each of your command tokens from the game board and return them to your reinforcements. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Ghosts of Creuss]
+- Home System Name: Creuss (Wormhole Gate)
+- Home System Planets: Creuss: 4/2 (Delta Wormhole)
+- Commodities: 4
+- Ability: Quantum Entanglement: You treat all systems that contain either an alpha or a beta wormhole as adjacent to each other. Game effects cannot prevent you from using this ability.
+- Ability: Slipstream: During your tactical actions, apply +1 to the move value of each of your ships that starts its movement in your home system or in a system that contains either an alpha or beta wormhole.
+- Ability 3 Name: Creuss Gate
+- Ability 3 Effect: When you create the game board, place the Creuss Gate (tile 17) where your home system would normally be placed. The Creuss Gate system is not a home system. Then place your home system (tile 51) in your play area.
+- PN: Creuss Iff: At the start of your turn during the action phase: Place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships. Then, return this card to the Creuss player.
+- Starting Fleet Units: 1 Carrier, 2 Destroyers, 2 Fighters, 4 Infantry, 1 Space Dock
+- Starting Techs: Gravity Drive (B)
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (BB)
+- Tech: Wormhole Generator $\Omega$: ACTION: Exhaust this card to place or move a Creuss wormhole token into either a system that contains a planet you control or a non-home system that does not contain another player's ships.
+- Tech Prerequisite: (R)
+- Tech: Dimensional Splicer: At the start of a space combat in a system that contains a wormhole and 1 or more of your ships, you may produce 1 hit and assign it to 1 of your opponent's ships.
+- BT Name: Particle Synthesis
+- BT Prerequisite: B$\leftrightarrow$Y
+- BT Effect (Production): Each wormhole in a system that contains your ships gains PRODUCTION 1 as if it were a unit you control.
+- BT Effect (Cost): Reduce the combined cost of units you produce in systems that contain wormholes by 1 for each wormhole in that system.
+- Ship: Hil Colish
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. This ship's system contains a delta wormhole. During movement, this ship may move before or after your other ships.
+- Mech: Icarus Drive
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. After any player activates a system, you may remove this unit from the game board to place or move a Creuss wormhole token into this system.
+- Agent: Emissary Taivra
+- Agent Effect: After a player activates a system that contains a non-delta wormhole: You may exhaust this card; if you do, that system is adjacent to all other systems that contain a wormhole during this tactical action.
+- Commander: Sai Seravus
+- Commander Unlock: Have units in 3 systems that contain alpha or beta wormholes.
+- Commander Effect: After your ships move: For each ship that has a capacity value and moved through 1 or more wormholes, you may place 1 fighter from your reinforcements with that ship if you have unused capacity in the active system.
+- Hero Name: Riftwalker Meian
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Swap the positions of any 2 systems that contain wormholes or your units, other than the Creuss system and the wormhole nexus. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: L1Z1X Mindnet]
+- Home System Name: [0.0.0]
+- Home System Planets: 5/0
+- Commodities: 2
+- Ability: Assimilate: When you gain control of a planet, replace each PDS and space dock that is on that planet with a matching unit from your reinforcements.
+- Ability: Harrow: After each round of ground combat, your ships in the active system may use their BOMBARDMENT abilities against your opponent's ground forces on the planet.
+- PN: Cybernetic Enhancements $\Omega$ (Codex 1): When you gain command tokens during the status phase: Gain 1 additional command token. Then, return this card to the L1Z1X player.
+- Starting Fleet Units: 1 Dreadnought, 1 Carrier, 3 Fighters, 5 Infantry, 1 Space Dock, 1 PDS
+- Starting Techs: Neural Motivator (0), Plasma Scoring (0)
+- Unit: Super Dreadnought I
+- Unit Type: Dreadnought (Unique)
+- Unit Cost: 4
+- Unit Combat: 5
+- Unit Move: 1
+- Unit Capacity: 2
+- Unit Bombardment: 5
+- Unit Abilities: Sustain Damage.
+- Tech Prerequisite: (BBY)
+- Tech Type: Dreadnought Upgrade
+- Tech Combat: 4
+- Tech Move: 2
+- Tech Bombardment: 4
+- Tech Abilities: Sustain Damage. This unit cannot be destroyed by "Direct Hit" action cards.
+- Tech Prerequisite: (YY)
+- Tech: Inheritance Systems: You may exhaust this card and spend 2 resources when you research a technology; ignore all of that technology's prerequisites.
+- BT Name: Fealty Uplink
+- BT Prerequisite: R$\leftrightarrow$G
+- BT Effect: When you gain control of a planet, place infantry from your reinforcements equal to that planet's influence value on that planet.
+- Ship: [0.0.1]
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 1
+- Ship Capacity: 5
+- Ship Abilities: Sustain Damage. During a space combat, hits produced by this ship and by your dreadnoughts in this system must be assigned to non-fighter ships if able.
+- Mech: Annihilator
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. BOMBARDMENT 8. While not participating in ground combat, this unit can use its BOMBARDMENT ability on planets in its system as if it were a ship.
+- Agent: I48S
+- Agent Effect: After a player activates a system: You may exhaust this card to allow that player to replace 1 of their infantry in the active system with 1 mech from their reinforcements.
+- Commander: 2RAM
+- Commander Unlock: Have 4 dreadnoughts on the game board.
+- Commander Effect: Units that have Planetary Shield do not prevent you from using BOMBARDMENT.
+- Hero Name: The Helmsman
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Choose 1 system that does not contain other players' ships; you may move your flagship and any number of your dreadnoughts from other systems into the chosen system. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Last Bastion (TE)]
+- Home System Name: Ordinian / Revelation
+- Home System Planets: 0/0 (Legendary), 1/2 (Trade Station)
+- Ordinian Legendary Ability: You may exhaust this card when you pass to draw 1 action card and gain 1 command token.
+- Commodities: 1
+- Ability: Liberate: When you gain control of a planet, ready that planet if it contains a number of your infantry $\ge$ that planet's resource value; otherwise, place 1 infantry on that planet.
+- Ability: Galvanize: When a game effect instructs a player to galvanize a unit, they place a galvanize token beneath it if it does not have one. Galvanized units roll 1 additional die for combat rolls and unit abilities.
+- Ability 3 Name: Phoenix Standard
+- Ability 3 Effect: At the end of a combat, you may galvanize 1 of your units that participated.
+- PN: Raise the Standard: At the end of a combat: Galvanize 1 of your units that participated. Then, return this card to the Last Bastion player.
+- Starting Fleet Units: 1 Dreadnought, 1 Carrier, 1 Cruiser, 2 Fighters, 3 Infantry, 1 Space Dock
+- Starting Techs: Choose one blue or yellow technology with no prerequisites.
+- Unit: 4x4IC "Helios" VI
+- Unit Type: Space Dock (Unique, Structure)
+- Unit Capacity: 3
+- Unit Production: Planet +2
+- Unit Abilities: The resource value of this planet is increased by 1.
+- Tech Prerequisite: N/A (Upgrade)
+- Tech Type: Space Dock Upgrade
+- Tech Capacity: 5
+- Tech Production: Planet +4
+- Tech Abilities: The resource value of this planet is increased by 2.
+- Tech Prerequisite: (R)
+- Tech Effect 1 (Defense): Cancel 1 hit produced by BOMBARDMENT rolls made against your ground forces for each of your galvanized units present.
+- Tech Effect 2 (Bombardment): At the start of a round of ground combat, you may resolve BOMBARDMENT 8 (X3) against your opponent's ground forces; if you do, make an identical roll against your own ground forces.
+- BT Name: The Icon
+- BT Prerequisite: Y$\leftrightarrow$R
+- BT Effect: When you produce ships, you may exhaust this card to place those ships in a system that contains 1 of your command tokens, at least 1 of your ground forces, and no other player's ships.
+- Ship: The Egeiro
+- Ship Cost: 8
+- Ship Combat: 9 (x1)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. Apply +1 to the result of each of this unit's combat rolls for each non-home system that contains a planet you control.
+- Mech: A3 Valiance
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. When this unit is destroyed, if it was galvanized, galvanize up to 3 of your infantry in its system.
+- Agent: Dame Briar
+- Agent Effect: When a player's unit is destroyed: You may exhaust this card to galvanize another of that player's units in the destroyed unit's system.
+- Commander: Nip and Tuck
+- Commander Unlock: There are 3 galvanized units on the game board
+- Commander Effect 1: Your action cards cannot be canceled by "Sabotage" action cards.
+- Commander Effect 2: The Nekro Virus cannot place assimilator tokens on your components.
+- Hero Name: Entity 4X41A "Apollo"
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: When one of your galvanized units is destroyed: You may purge this card to roll 1 die for each unit in its system that belongs to another player; if the result is $\ge$ the galvanized unit's combat value, destroy that unit.
+- nan: nan
+
+##################################################
+
+[FACTION: Mahact Gene-Sorcerers (POK)]
+- Home System Name: Ixth
+- Home System Planets: 3/5
+- Commodities: 3
+- Ability: Edict: When you win a combat, place 1 command token from your opponent's reinforcements in your fleet pool if it does not already contain 1 of that player's tokens; other players' tokens in your fleet pool increase your fleet limit but cannot be redistributed.
+- Ability: Imperia: While another player's command token is in your fleet pool, you can use the ability of that player's commander, if it's unlocked.
+- Ability 3 Name: Hubris
+- Ability 3 Effect: During setup, purge your "Alliance" promissory note. Other players cannot give you their "Alliance" promissory notes.
+- PN: Scepter of Dominion: At the start of the strategy phase: Choose 1 non-home system that contains your units; each other player who has a token on the Mahact player's command sheet places a token from their reinforcements in that system. Then, return this card to the Mahact player.
+- Starting Fleet Units: 1 Dreadnought, 1 Carrier, 1 Cruiser, 2 Fighters, 3 Infantry, 1 Space Dock
+- Starting Techs: Bio-Stims (G), Predictive Intelligence (Y)
+- Unit: Crimson Legionnaire I
+- Unit Type: Infantry (Unique)
+- Unit Cost: 1 (x2)
+- Unit Combat: 8
+- Unit Abilities: After this unit is destroyed, gain 1 commodity or convert 1 of your commodities to a trade good.
+- Tech Prerequisite: nan
+- Tech Prerequisite: nan
+- BT Name: Vaults of the Heir
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect: ACTION: Exhaust this card and purge 1 of your technologies to gain 1 relic.
+- Ship: Arvicon Rex
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. During combat against an opponent whose command token is not in your fleet pool, apply +2 to the results of this unit's combat rolls.
+- Mech: Starlancer
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. After a player whose command token is in your fleet pool activates this system, you may spend their token from your fleet pool to end their turn; they gain that token.
+- Agent: Jae Mir Kan
+- Agent Effect: When you would spend a command token during the secondary ability of a strategic ACTION: You may exhaust this card to remove 1 of the active player's command tokens from the board and use it instead.
+- Commander: Il Na Viroset
+- Commander Unlock: Have 2 other factions' command tokens in your fleet pool.
+- Commander Effect: During your tactical actions, you can activate systems that contain your command tokens. If you do, return both command tokens to your reinforcements and end your turn.
+- Hero Name: Airo Shir Aur
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Move all units in the space area of any system to an adjacent system that contains a different player's ships. Space combat is resolved in that system; neither player can retreat or resolve abilities that would move their ships. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Mentak Coalition]
+- Home System Name: Moll Primus
+- Home System Planets: 4/1
+- Commodities: 2
+- Ability: Ambush: At the start of a space combat, you may roll 1 die for each of up to 2 of your cruisers or destroyers in the system. For each result $\ge$ that ship's combat value produce 1 hit; opponent must assign it to 1 of his ships.
+- Ability: Pillage: After 1 of your neighbors gains trade goods or resolves a transaction, if he has 3 or more trade goods, you may take 1 of his trade goods or commodities.
+- PN: Promise of Protection: ACTION: Place this card faceup in your play area. While this card is in your play area, the Mentak player cannot use his Pillage faction ability against you. If you activate a system that contains 1 or more of the Mentak player's units, return this card to the Mentak player.
+- Starting Fleet Units: 1 Carrier, 2 Cruisers, 3 Fighters, 4 Infantry, 1 Space Dock, 1 PDS
+- Starting Techs: Sarween Tools (0), Plasma Scoring (0)
+- Unit: None (Unique Destroyer/Cruiser Upgrade only via Breakthrough)
+- Unit Type: nan
+- Tech Prerequisite: (YYY)
+- Tech: Mirror Computing: When you spend trade goods, each trade good is worth 2 resources or influence instead of 1.
+- Tech Prerequisite: (YY)
+- Tech: Salvage Operations: After you win or lose a space combat, gain 1 trade good; if you won the combat, you may also produce 1 ship in that system of any ship type that was destroyed during the combat.
+- BT Name: The Table's Grace / Corsair ("Cruiser III")
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Unlock Condition: If you have the Cruiser II unit upgrade technology, flip this card and place it on top of Cruiser II.
+- Corsair Unit Cost: 2
+- Corsair Unit Combat: 6
+- Corsair Unit Move: 3
+- Corsair Unit Capacity: 2
+- Corsair Unit Abilities: If the active system contains another player's non-fighter ships, this unit can move through systems that contain other players' ships.
+- Ship: Fourth Moon
+- Ship Cost: 8
+- Ship Combat: 7 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. Other players' ships in this system cannot use Sustain Damage.
+- Mech: Moll Terminus
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. Other players' ground forces on this planet cannot use Sustain Damage.
+- Agent: Suffi An
+- Agent Effect: After the Pillage faction ability is used against another player: You may exhaust this card; if you do, you and that player each draw 1 action card.
+- Commander: S'ula Mentarion
+- Commander Unlock: Have 4 cruisers on the game board.
+- Commander Effect: After you win a space combat: You may force your opponent to give you 1 promissory note from their hand.
+- Hero Name: Ipswitch, Loose Cannon
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: At the start of a space combat that you are participating in: You may purge this card; if you do, for each other player's ship that is destroyed during this combat, place 1 ship of that type from your reinforcements in the active system.
+- nan: nan
+
+##################################################
+
+[FACTION: Naalu Collective]
+- Home System Name: Druaa / Maaluuk
+- Home System Planets: 3/1, 0/2
+- Commodities: 3
+- Ability: Telepathic: At the end of the strategy phase, place the Naalu "0" token on your strategy card; you are first in initiative order.
+- Ability: Foresight: After another player moves ships into a system that contains one or more of your ships, you may place 1 token from your strategy pool in an adjacent system that does not contain another player's ships; move your ships from the active system into that system.
+- PN: Gift of Prescience: At the end of the Strategy Phase: Place this card faceup in your play area and place the Naalu "0" token on your strategy card; you are the first in initiative order. The Naalu player cannot use his Telepathic faction ability during this game round. Return this card to the Naalu player at the end of the status phase.
+- Starting Fleet Units: 1 Carrier, 1 Cruiser, 1 Destroyer, 3 Fighters, 4 Infantry, 1 Space Dock, 1 PDS
+- Starting Techs: Sarween Tools (0), Neural Motivator (0)
+- Unit: Hybrid Crystal Fighter I
+- Unit Type: Fighter (Unique)
+- Unit Cost: 1 (x2)
+- Unit Combat: 8
+- Tech Prerequisite: (GB)
+- Tech Type: Fighter Upgrade
+- Tech Combat: 7
+- Tech Move: 2
+- Tech Abilities: This unit may move without being transported. Each fighter in excess of your ships' capacity counts as 1/2 of a ship against your fleet pool.
+- Tech Prerequisite: (GGG)
+- Tech: Neuroglaive: After another player activates a system that contains 1 or more of your ships, that player removes 1 token from his fleet pool and returns it to his reinforcements.
+- BT Name: Mindsieve
+- BT Prerequisite: R$\leftrightarrow$G
+- BT Effect: When you would resolve the secondary ability of another player's strategy card, you may give them a promissory note to resolve it without spending a command token.
+- Ship: Matriarch
+- Ship Cost: 8
+- Ship Combat: 9 (x2)
+- Ship Move: 1
+- Ship Capacity: 6
+- Ship Abilities: Sustain Damage. During an invasion in this system, you may commit fighters to planets as if they were ground forces. When combat ends, return those units to the space area.
+- Mech: Iconoclast $\Omega$
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. DEPLOY: When another player gains a relic, place 1 mech on any planet you control.
+- Agent: Z'eu $\Omega$
+- Agent Effect: After any player's command token is placed in a system: You may exhaust this card to return that token to that player's reinforcements.
+- Commander: M'aban $\Omega$
+- Commander Unlock: Have ground forces in or adjacent to the Mecatol Rex system.
+- Commander Effect: At any time: You may look at your neighbors' hands of promissory notes and the top and bottom card of the agenda deck.
+- Hero Name: The Oracle
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: At the end of the status phase: You may force each other player to give you 1 promissory note from their hand. If you do, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Naaz-Rokha Alliance]
+- Home System Name: Naazir / Rokha
+- Home System Planets: 2/1, 1/2
+- Commodities: 3
+- Ability: Distant Suns: When you explore a planet that contains 1 of your mechs, you may draw 1 additional card; choose 1 to resolve and discard the rest.
+- Ability: Fabrication: ACTION: Either purge 2 of your relic fragments of the same type to gain 1 relic or purge 1 of your relic fragments to gain 1 command token.
+- PN: Black Market Forgery: ACTION: Purge 2 of your relic fragments of the same type to gain 1 relic. Then, return this card to the Naaz-Rokha player.
+- Starting Fleet Units: 2 Carriers, 1 Destroyer, 2 Fighters, 1 Mech, 3 Infantry, 1 Space Dock
+- Starting Techs: Psychoarchaeology (0), AI Development Algorithm (0)
+- Unit: Eidolon / Z-Grav Eidolon
+- Unit Type: Mech (Dual-Sided, Ground/Space)
+- Eidolon (Faceup) Combat: 6 (x2)
+- Z-Grav Eidolon (Facedown) Combat: 8 (x2)
+- Z-Grav Abilities: If this unit is in the space area of the active system, it is also a ship. At the end of a space battle, flip this card.
+- Tech Prerequisite: (GGG)
+- Tech: Pre-Fab Arcologies: After you explore a planet, ready that planet.
+- Tech Prerequisite: (R)
+- Tech: Supercharge: At the start of a combat round, you may exhaust this card to apply +1 to the result of each of your unit's combat rolls during this combat round.
+- BT Name: Absolute Synergy / Eidolon Maximum
+- BT Prerequisite: B$\leftrightarrow$G
+- BT Unlock Condition: When you have 4 mechs in the same system, you may return 3 of those mechs to your reinforcements to flip this card.
+- Eidolon Max Combat/Move: Combat 4 (x4), Move 3
+- Eidolon Max Abilities: This unit is both a ship and ground force. Cannot be assigned hits from unit abilities. Repair it at the start of every combat round. Game effects cannot place or produce your mechs. When destroyed, flip this card and return it to your play area. SUSTAIN DAMAGE.
+- Ship: Visz El Vir
+- Ship Cost: 8
+- Ship Combat: 9 (x2)
+- Ship Move: 1
+- Ship Capacity: 4
+- Ship Abilities: Sustain Damage. Your mechs in this system roll 1 additional die during combat.
+- Agent: Garv and Gunn
+- Agent Effect: At the end of a player's turn: You may exhaust this card to allow that player to explore 1 of their planets.
+- Commander: Dart and Tai
+- Commander Unlock: Have mechs in 3 systems.
+- Commander Effect: After you gain control of a planet that was controlled by another player: You may explore that planet.
+- Hero Name: Hesh and Prit
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Gain 1 relic and perform the secondary ability of up to 2 readied or unchosen strategy cards; during this action, spend command tokens from your reinforcements instead of your strategy pool. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Nekro Virus]
+- Home System Name: Mordai II
+- Home System Planets: 4/0
+- Commodities: 3
+- Ability: Galactic Threat: You cannot vote on agendas. Once per agenda phase, after an agenda is revealed, you may predict aloud the outcome of that agenda. If your prediction is correct, gain 1 technology that is owned by a player who voted how you predicted.
+- Ability: Technology Singularity: Once per combat, after 1 of your opponent's units is destroyed, you may gain 1 technology that is owned by that player.
+- Ability 3 Name: Propagation
+- Ability 3 Effect: You cannot research technology. When you would research a technology, gain 3 command tokens instead.
+- PN: Antivirus: At the start of a combat: Place this card faceup in your play area. While this card is in your play area, the Nekro player cannot use his Technological Singularity faction ability against you. If you activate a system that contains 1 or more of the Nekro player's units, return this card to the Nekro player.
+- Starting Fleet Units: 1 Dreadnought, 1 Carrier, 1 Cruiser, 2 Fighters, 2 Infantry, 1 Space Dock
+- Starting Techs: Dacxive Animators (G), Valefar Assimilator X, Valefar Assimilator Y
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: N/A (Starts with it)
+- Tech: Valefactor Assimilator X: When you gain another player's technology using 1 of your faction abilities, you may place the "X" assimilator token on a faction technology owned by that player instead. While that token is on a technology, this card gains that technology's text. You cannot place an assimilator token on technology that already has an assimilator token.
+- Tech Prerequisite: N/A (Starts with it)
+- Tech: Valefactor Assimilator Y: (Same text as X, with "Y" token instead).
+- BT Name: Valefar Assimilator Z
+- BT Prerequisite: N/A (Unique Unlock)
+- BT Effect: When you would gain another player's technology using one of your faction abilities, you may instead place one of your "Z" assimilator tokens on that player's faction sheet. Your flagship gains the text abilities of that faction's flagship in addition to its own.
+- Ship: The Alastor
+- Ship Cost: 8
+- Ship Combat: 9 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. At the start of a space combat, choose any number of your ground forces in this system to participate in that combat as if they were ships.
+- Mech: Mordred
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. During combat against an opponent who has an "X" or "Y" token on 1 or more of their technologies, apply +2 to the result of each of this unit's combat rolls.
+- Agent: Nekro Malleon
+- Agent Effect: During the action phase: You may exhaust this card to choose a player; that player may discard 1 action card or spend 1 command token from their command sheet to gain 2 trade goods.
+- Commander: Nekro Acidos
+- Commander Unlock: Own 3 technologies. A "Valefar Assimilator" technology counts only if its X or Y token is on a technology.
+- Commander Effect: After you gain a technology: You may draw 1 action card.
+- Hero Name: UNIT.DSGN.FLAYESH
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Choose a planet that has a technology specialty in a system that contains your units. Destroy any other player's units on that planet. Gain trade goods equal to the planet's combined resource and influence values and gain 1 technology that matches the specialty of that planet. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Nomad (POK)]
+- Home System Name: Arcturus
+- Home System Planets: 4/4
+- Commodities: 4, 0 (Note: The user's sheet lists "4,0")
+- Ability: The Company: During setup, take the 2 additional Nomad faction agents and place them next to your faction sheet; you have 3 agents.
+- Ability: Future Sight: During the agenda phase, after an outcome you voted for or predicted is resolved, gain 1 trade good.
+- PN: The Cavalry: At the start of a space combat against a player other than the Nomad: During this combat, treat 1 of your non-fighter ships as if it has the Sustain Damage ability, combat value, and ANTI-FIGHTER BARRAGE value of the Nomad's flagship. Return this card to the Nomad player at the end of the combat.
+- Starting Fleet Units: 1 Flagship, 1 Carrier, 1 Destroyer, 3 Fighters, 4 Infantry, 1 Space Dock
+- Starting Techs: Sling Relay (B)
+- Unit: None (Flagship has a unique upgrade)
+- Unit Type: nan
+- Tech Prerequisite: (GBY)
+- Tech Type: Flagship Upgrade
+- Tech Cost: 8
+- Tech Combat: 5 (x2)
+- Tech Move: 2
+- Tech Capacity: 6
+- Tech AFB: 5 (x3)
+- Tech Abilities: Sustain Damage. You may treat this unit as if it were adjacent to systems that contain 1 or more of your mechs.
+- Tech Prerequisite: (Y)
+- Tech: Temporal Command Suite: After any player's agent becomes exhausted, you may exhaust this card to ready that agent; if you ready another player's agent, you may perform a transaction with that player.
+- BT Name: Thunder's Paradox
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect: At the start of any player's turn, you may exhaust 1 of your agents to ready any other agent.
+- Ship: Memoria I
+- Ship Cost: 8
+- Ship Combat: 7 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship AFB: 8 (x3)
+- Ship Abilities: Sustain Damage. You may treat this unit as if it were adjacent to systems that contain 1 or more of your mechs.
+- Mech: Quantum Manipulator
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. While this unit is in a space area during combat, you may use its Sustain Damage ability to cancel a hit that is produced against your ships in this system.
+- Agent: The Thundarian
+- Agent Effect: After the "Roll Dice" step of combat: You may exhaust this card. If you do, hits are not assigned to either player's units. Return to the start of this combat round's "Roll Dice" step.
+- Agent: Artuno the Betrayer
+- Agent Effect: When you gain trade goods from the supply: You may exhaust this card to place an equal number of trade goods on this card. When this card readies, gain the trade goods on this card.
+- Agent: Field Marshal Mercer
+- Agent Effect: At the end of a player's turn: You may exhaust this card to allow that player to remove 2 of their ground forces from the game board and place them on planets they control in the active system.
+- Commander: Navarch Feng
+- Commander Unlock: Have 1 scored secret objective.
+- Commander Effect: You can produce your flagship without spending resources.
+- Hero Name: Ahk-Syl Siven
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Place this card near the game board; your flagship and units it transports can move out of systems that contain your command tokens during this game round. At the end of that game round, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Sardakk N'orr]
+- Home System Name: Tren'Lak / Quinarra
+- Home System Planets: 1/0, 3/1
+- Commodities: 3
+- Ability: Unrelenting: Apply +1 to the result of each of your unit's combat rolls.
+- PN: Tekklar Legion: At the start of an invasion combat: Apply +1 to the result of each of your unit's combat rolls during this combat. If your opponent is the N'orr player, apply -1 to the result of each of his unit's combat rolls during this combat. Then, return this card to the N'orr player.
+- Starting Fleet Units: 2 Carriers, 1 Cruiser, 5 Infantry, 1 Space Dock, 1 PDS
+- Starting Techs: nan
+- Unit: Exotrireme I
+- Unit Type: Dreadnought (Unique)
+- Unit Cost: 4
+- Unit Combat: 5
+- Unit Move: 1
+- Unit Capacity: 1
+- Unit Bombardment: 4 (x2)
+- Unit Abilities: Sustain Damage.
+- Tech Prerequisite: (BBY)
+- Tech Type: Dreadnought Upgrade
+- Tech Combat: 5
+- Tech Move: 2
+- Tech Bombardment: 4 (x2)
+- Tech Abilities: Sustain Damage. This unit cannot be destroyed by "Direct Hit" action cards. After a round of space combat, you may destroy this unit to destroy up to 2 ships in this system.
+- Tech Prerequisite: (RR)
+- Tech: Valkyrie Particle Weave: After making combat rolls during a round of ground combat, if your opponent produced 1 or more hits, you produce 1 additional hit.
+- BT Name: N'orr Supremacy
+- BT Prerequisite: B$\leftrightarrow$R
+- BT Effect: After you win a combat, either gain 1 command token or research a unit upgrade technology.
+- Ship: C'Morran N'orr
+- Ship Cost: 8
+- Ship Combat: 6 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. Apply +1 to the result of each of your other ship's combat rolls in this system.
+- Mech: Valkyrie Exoskeleton
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. After this unit uses its Sustain Damage ability during ground combat, it produces 1 hit against your opponent's ground forces on this planet.
+- Agent: T'ro
+- Agent Effect: At the end of a player's tactical ACTION: You may exhaust this card; if you do, that player may place 2 infantry from their reinforcements on a planet they control in the active system.
+- Commander: G'hom Sek'kus
+- Commander Unlock: Control 5 planets in non-home systems.
+- Commander Effect: During the "Commit Ground Forces" step: You can commit up to 1 ground force from each planet in the active system and each planet in adjacent systems that do not contain 1 of your command tokens.
+- Hero Name: Sh'val, Harbinger
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: After you move ships into the active system: You may skip directly to the "Commit Ground Forces" step. If you do, after you commit ground forces to land on planets, purge this card and return each of your ships in the active system to your reinforcements.
+- nan: nan
+
+##################################################
+
+[FACTION: The Firmament (Starting) / The Obsidian (Transformed) (TE)]
+- Home System (Firmament): Cronos: 2/1, Tallin: 1/2
+- Home System (Obsidian): Cronos Hollow: 3/0, Tallin Hollow: 3/0
+- Commodities: 3
+- Ability: Plots within Plots (Firmament): Score secret objectives already scored by other players (does not count against limits). Gain no VP, but place a facedown plot card with that player's control token on it.
+- Ability: Puppets of the Blade (Firmament): If you have $\ge 1$ plot card, ACTION: Purge Firmament components. Gain all Obsidian components.
+- Ability 3 Name: The Blade's Orchestra (Obsidian)
+- Ability 3 Effect: When this faction comes into play, flip your home system, double-sided faction components, and all of your in-play plot cards. Then, ready Cronos Hollow and Tallin Hollow if you control them.
+- Ability 4 Name: Nocturne (Obsidian)
+- Ability 4 Effect: This faction cannot be chosen during setup.
+- PN 1 (Firmament): Black Ops
+- PN 1 Text: When you receive this card (if not Firmament): Firmament may place 1 facedown plot card with your control token on it. Then, gain 2 command tokens, gain 2 trade goods, and purge this card.
+- PN 2 (Dual): Malevolency
+- PN 2 Text: End of tactical action: Spend 1 influence to give this card to a neighbor (even if Obsidian). End of status phase (if not Obsidian): Remove 1 CC from fleet pool to reinforcements.
+- Starting Fleet Units: 1 Carrier, 1 Cruiser, 1 Destroyer, 3 fighters, 3 infantry, 1 Space Dock
+- Starting Techs: Choose one green or yellow technology that has no prerequisites.
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (YY) / (0) [Firmament/Obsidian]
+- Tech Effect (Dual): When you gain this card, put The Fracture into play. (Flip card if Obsidian is in play).
+- Tech Prerequisite: (GG) / (0) [Firmament/Obsidian]
+- Tech Effect (Firmament): Start of status phase, may place 1 infantry from reinforcements on a planet you control in your home system.
+- Tech Effect (Obsidian): Start of your turn, destroy 1 of another player's infantry in or adjacent to a system that contains your infantry. (Cannot be researched).
+- BT 1 (Firmament): The Sowing
+- BT 1 Prereq: Y$\leftrightarrow$G
+- BT 1 Effect: When you gain this card and at the start of the status phase, you may place up to 3 of your trade goods on this card. (Flip card if Obsidian).
+- BT 2 (Obsidian): The Reaping
+- BT 2 Prereq: Y$\leftrightarrow$G
+- BT 2 Effect: Place 1 TG from supply onto this card each time you win combat against a puppeted player. Start of status phase, gain all TGs on this card, then gain an equal number of TGs from the supply.
+- Ship: Heaven's Eye
+- Ship Combat: 5 (x2)
+- Ship Abilities: Sustain Damage. If active system contains units belonging to a player who has a control token on 1 of your plots, apply +1 to this ship's move value and repair it at the end of every combat round.
+- Ship: Heaven's Hollow
+- Ship Combat: 5 (x3)
+- Ship Abilities: Sustain Damage.
+- Mech: Viper Ex-23
+- Mech Effect (Firmament): When ground forces are committed to this planet, may choose for your units to coexist, if not already. (Flip card if Obsidian).
+- Mech Effect (Obsidian): If this unit was coexisting when this card flipped, gain control of its planet; the other player's units are now coexisting.
+- Agent: Myru Vos
+- Agent Effect: When a player moves ships: Exhaust to prevent SPACE CANNON use against those ships. If not transporting units, they can also move through other players' ships.
+- Agent: Vos Hollow
+- Agent Effect: When a player's ship is destroyed during any combat: Exhaust to force that player's opponent to destroy 1 of their ships of the same type in the active system.
+- Commander: Captain Aroz
+- Commander Unlock: Have a plot card in play.
+- Commander Effect: You may treat planets in systems that contain your ships as if you controlled them for the purpose of scoring secret objectives.
+- Commander: Aroz Hollow
+- Commander Unlock: Have units in The Fracture
+- Commander Effect: Apply +1 to the result of each of your units' combat rolls in The Fracture.
+- Hero Name: Sharsiss
+- Hero Effect: ACTION: Place 1 of your plot cards in play with any other player's control token on it. Then, you may place any player's control token on 1 of your in-play plot cards; one plot cannot have two of the same player's tokens. Then, purge this card.
+- Hero Name: Sharsiss Hollow
+- Hero Effect: ACTION: Ready all of your planets. Then, purge this card.
+- Plot Name: Assail
+- Plot Effect: Apply +1 to the results of each of your combat and unit ability rolls against the puppeted player.
+- Plot Name: Enervate
+- Plot Effect: You can perform the secondary abilities of the puppeted player's strategy cards without spending command tokens; for "Leadership," you can perform the primary ability instead.
+- Plot Name: Extract
+- Plot Effect: When this card is revealed, gain 1 non-faction technology owned by the puppeted player. When the puppeted player gains a non-faction technology, you may spend 4 resources to gain that technology.
+- Plot Name: Seethe
+- Plot Effect: When this card is revealed, destroy all units on a non-home planet controlled by the puppeted player. At the start of the status phase, destroy 1 of the puppeted player's infantry in any system.
+- Plot Name: Siphon
+- Plot Effect: When the puppeted player gains commodities, you gain an equal number of trade goods.
+
+##################################################
+
+[FACTION: The Ral Nel Consortium (TE)]
+- Home System Name: Mez Lo Orz Fei Zsha / Rep Lo Orz Oet
+- Home System Planets: 2/1, 1/3
+- Commodities: 4
+- Ability: Survival Instinct: After another player activates a system that contains your ships, you may move up to 2 of your ships into the active system from adjacent systems that do not contain your command tokens.
+- Ability 2 Effect (Transport): Your structures can be transported by any ship; this does not require or count against capacity.
+- Ability 2 Effect (Placement): While your structures are in the space area, they cannot use their unit abilities. At the end of your tactical actions, you may place your structures that are in space areas onto planets you control in their respective systems.
+- PN: Nano-Link Permit: After you activate a system: You may move your structures from adjacent systems that do not contain your command tokens onto planets you control in the active system. Then, return this card to the Ral Nel player.
+- Starting Fleet Units: 1 Dreadnought, 1 Carrier, 1 Destroyer, 2 Fighters, 4 Infantry, 1 Space dock, 2 PDS
+- Starting Techs: Choose one red or green technology with no prerequisites.
+- Unit: Linkship I
+- Unit Type: Destroyer (Unique)
+- Unit Cost: 1
+- Unit Combat: 9 (x1)
+- Unit Move: 3
+- Unit Abilities: This unit can use the SPACE CANNON ability of one of your structures in its space area; each structure can only be triggered once.
+- Tech Prerequisite: (R)
+- Tech Effect (Action 1): ACTION: Exhaust this card to place 1 PDS on a planet you control.
+- Tech Effect (Action 2): ACTION: Exhaust this card to repair all of your damaged units.
+- Tech Effect (Action 3): ACTION: Exhaust this card and discard 1 action card to draw 1 action card.
+- Tech Prerequisite: (RR)
+- Tech Type: Destroyer Upgrade
+- Tech Combat: 8 (x1)
+- Tech Move: 4
+- Tech AFB: 6 (x3)
+- Tech Abilities: This unit can use the SPACE CANNON ability of one of your structures in its space area; each linkship can trigger the same structure.
+- BT Name: Data Skimmer
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect: During the action phase, if you have not passed, when other players would discard action cards, they are placed on this card instead. When you pass, take 1 action card from this card and discard the rest.
+- Ship: Last Dispatch
+- Ship Cost: 8
+- 8 (x2): nan
+- Ship Move: 2
+- Ship Capacity: 4
+- Ship Abilities: Sustain Damage. When this unit retreats, you may destroy 1 ship in the active system that does not have SUSTAIN DAMAGE.
+- Mech: Alarum
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. At the end of a round of combat on this planet, you may move up to 2 of your ground forces to this planet from planets in adjacent systems.
+- Agent: Kan Rip Kel
+- Agent Effect: ACTION: Exhaust this card to draw 2 action cards; give 1 of those cards to another player.
+- Commander: Watchful OJZ
+- Commander Unlock: Be the last player to pass during the action phase.
+- Commander Effect: When you declare a retreat: Immediately retreat up to 2 of your ships from the active system to an adjacent system that does not contain another player's ships. Place a command token from your reinforcements into that system.
+- Hero Name: Signal Intrusion
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: After the last player passes: You may choose to no longer be passed; if you do, gain 2 command tokens, draw 1 action card, and purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Titans of Ul]
+- Home System Name: Elysium
+- Home System Planets: 4/1
+- Commodities: 2
+- Ability: Terragenesis: After you explore a planet that does not have a sleeper token, you may place or move 1 sleeper token onto that planet.
+- Ability: Awaken: After you activate a system that contains 1 or more of your sleeper tokens, you may replace each of those tokens with 1 PDS from your reinforcements.
+- Ability 3 Name: Coalescence
+- Ability 3 Effect: If your flagship or your Awaken faction ability places units into the same space area or onto the same planet as another player's units, your units must participate in combat during the "Space Combat" or "Ground Combat" steps.
+- PN: Terraform: ACTION: Attach this card to a non-home planet you control other than Mecatol Rex. Its resource and influence values are each increased by 1, and it is treated as having all 3 planet traits (cultural, hazardous, and industrial).
+- Starting Fleet Units: 1 Dreadnought, 2 Cruisers, 2 Fighters, 3 Infantry, 1 Space Dock
+- Starting Techs: Antimass Deflectors (0), Scanlink Drone Network (0)
+- Unit: Saturn Engine I
+- Unit Type: Cruiser (Unique)
+- Unit Cost: 2
+- Unit Combat: 7
+- Unit Move: 2
+- Unit Capacity: 1
+- Unit: Hel-Titan I
+- Unit Type: PDS (Unique, Structure/Ground Force)
+- Unit Combat: 7
+- Unit Abilities: Planetary Shield. Sustain Damage. SPACE CANNON 6. PRODUCTION 1. This unit is treated as both a structure and a ground force. It cannot be transported.
+- Tech Prerequisite: (GYR)
+- Tech Type: Cruiser Upgrade
+- Tech Cost: 2
+- Tech Combat: 6
+- Tech Move: 3
+- Tech Capacity: 2
+- Tech Abilities: Sustain Damage.
+- Tech Prerequisite: (YR)
+- Tech Type: PDS Upgrade
+- Tech Combat: 6
+- Tech Abilities: Planetary Shield. Sustain Damage. SPACE CANNON 5. PRODUCTION 1. This unit is treated as both a structure and a ground force. It cannot be transported. You may use this unit's SPACE CANNON against ships that are adjacent to this unit's system.
+- BT Name: Slumberstate Computing
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect (Coexistence): When COALESCENCE results in a ground combat, if you commit no other units, you may choose for your units to coexist instead. During the status phase, for each player you are coexisting with, you and that player each draw 1 additional action card.
+- BT Effect (Sleeper Token): Other players may allow you to place a sleeper token on a planet they control.
+- Ship: Ouranos
+- Ship Cost: 8
+- Ship Combat: 7 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. DEPLOY: After you activate a system that contains 1 or more of your PDS, you may replace 1 of those PDS with this unit.
+- Mech: Hecatoncheires
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. DEPLOY: When you would place a PDS on a planet, you may place 1 mech and 1 infantry on that planet instead.
+- Agent: Tellurian
+- Agent Effect: When a hit is produced against a unit: You may exhaust this card to cancel that hit.
+- Commander: Tungstantus
+- Commander Unlock: Have 5 structures on the game board.
+- Commander Effect: When 1 or more of your units use PRODUCTION: You may gain 1 trade good.
+- Hero Name: Ul the Progenitor
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Ready Elysium and attach this card to it. Its resource and influence values are each increased by 3, and it gains the SPACE CANNON 5 (x3) ability as if it were a unit.
+- nan: nan
+
+##################################################
+
+[FACTION: Universities of Jol-Nar]
+- Home System Name: Jol / Nar
+- Home System Planets: 1/2, 2/3
+- Commodities: 4
+- Ability: Fragile: Apply -1 to the result of each of your unit's combat rolls.
+- Ability: Brilliant: When you spend a command token to resolve the secondary ability of the "Technology" strategy card, you may resolve the primary ability instead.
+- Ability 3 Name: Analytical
+- Ability 3 Effect: When you research a technology that is not a unit upgrade technology, you may ignore 1 prerequisite.
+- PN: Research Agreement: After the Jol-Nar player researches a technology that is not a faction technology: Gain that technology. Then, return this card to the Jol-Nar player.
+- Starting Fleet Units: 1 Dreadnought, 2 Carriers, 1 Fighter, 2 Infantry, 1 Space Dock, 2 PDS
+- Starting Techs: Neural Motivator (0), Antimass Deflector (0), Sarween Tools (0), Plasma Scoring (0)
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (BB)
+- Tech: Spacial Conduit Cylinder: You may exhaust this card after you activate a system that contains 1 or more of your units; that system is adjacent to all other systems that contain 1 or more of your units during this activation.
+- Tech Prerequisite: (YY)
+- Tech: E-Res Siphons: After another player activates a system that contains 1 or more of your ships, gain 4 trade goods.
+- BT Name: Specialized Compounds
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect: When you research technology using the "Technology" strategy card, you may exhaust a planet that has a technology specialty instead of spending resources; if you do, you must research a technology of that color.
+- Ship: J.N.S. Hylarim
+- Ship Cost: 8
+- Ship Combat: 6 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. When making a combat roll for this ship, each result of 9 or 10, before applying modifiers, produces 2 additional hits.
+- Mech: Shield Paling
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. Your infantry on this planet are not affected by your Fragile faction ability.
+- Agent: Doctor Sucaban
+- Agent Effect: When a player spends resources to research: You may exhaust this card to allow that player to remove any number of their infantry from the game board. For each unit removed, reduce the resources spent by 1.
+- Commander: Ta Zern
+- Commander Unlock: Own 8 technologies.
+- Commander Effect: After you roll dice for a unit ability: You may reroll any of those dice.
+- Hero Name: Rin, the Master's Legacy
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: For each non-unit upgrade technology you own, you may replace that technology with any technology of the same color from the deck. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Vuil'raith Cabal]
+- Home System Name: Acheron
+- Home System Planets: 4/0
+- Commodities: 2
+- Ability: Devour: Capture your opponent's non-structure units that are destroyed during combat.
+- Ability: Amalgamation: When you produce a unit, you may return 1 captured unit of that type to produce that unit without spending resources.
+- Ability 3 Name: Riftmeld
+- Ability 3 Effect: When you research a unit upgrade technology, you may return 1 captured unit of that type to ignore all of that technology's prerequisites.
+- PN: Crucible: After you activate a system: Your ships do not roll for gravity rifts during this movement; apply an additional +1 to the move values of your ships that would move out of or through a gravity rift instead. Then, return this card to the Vuil'raith player.
+- Starting Fleet Units: 1 Dreadnought, 1 Carrier, 1 Cruiser, 3 Fighters, 3 Infantry, 1 Space Dock
+- Starting Techs: Self-Assembly Routines (R)
+- Unit: Dimensional Tear I
+- Unit Type: Space Dock (Unique, Rift)
+- Unit Production: 5
+- Unit Abilities: This system is a gravity rift; your ships do not roll for this gravity rift. Up to 6 fighters in this system do not count against your ships' capacity.
+- Tech Prerequisite: (YY)
+- Tech Type: Space Dock Upgrade
+- Tech Production: 7
+- Tech Abilities: This system is a gravity rift; your ships do not roll for this gravity rift. Up to 12 fighters in this system do not count against your ships' capacity.
+- Tech Prerequisite: (R)
+- Tech: Vortex: ACTION: Exhaust this card to choose another player's non-structure unit in a system that is adjacent to 1 or more of your space docks. Capture 1 unit of that type from that player's reinforcements.
+- BT Name: Al'raith Ix Ianovar
+- BT Prerequisite: R$\leftrightarrow$G
+- BT Effect (Immediate): This breakthrough causes The Fracture to enter play without a roll, if it is not already in play. After this card enters play, move up to 2 ingress tokens into systems that contain gravity rifts.
+- BT Effect (Movement): Apply +1 to the MOVE value of each of your ships that start their movement in The Fracture.
+- Ship: The Terror Between
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. BOMBARDMENT 5. Capture all other non-structure units that are destroyed in this system, including your own.
+- Mech: Reanimator
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. When your infantry on this planet are destroyed, place them on your faction sheet; those units are captured.
+- Agent: The Stillness of Stars
+- Agent Effect: After another player replenishes commodities: You may exhaust this card to convert their commodities to trade goods and capture 1 unit from their reinforcements that has a cost equal to or lower than their commodity value.
+- Commander: That Which Molds Flesh
+- Commander Unlock: Have units in 3 gravity rifts.
+- Commander Effect: When you produce fighter or infantry units: Up to 2 of those units do not count against your PRODUCTION limit.
+- Hero Name: It Feeds on Carrion
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Each other player rolls a die for each of his non-fighter ships that are in or adjacent to a system that contains a dimensional tear; on a 1-3, capture that unit. If this causes a player's ground forces or fighter to be removed, also capture those units. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Winnu]
+- Home System Name: Winnu
+- Home System Planets: 3/4
+- Commodities: 3
+- Ability: Blood Ties: You do not have to spend influence to remove the custodians token from Mecatol Rex.
+- Ability: Reclamation: After you resolve a tactical action during which you gained control of Mecatol Rex, you may place 1 PDS and 1 space dock from your reinforcements on Mecatol Rex.
+- PN: Acquiescence $\Omega$: When the Winnu player resolves a strategic ACTION: You do not have to spend or place a command token to resolve the secondary ability of that strategy card. Then, return this card to the Winnu player.
+- Starting Fleet Units: 1 Carrier, 1 Cruiser, 2 Fighters, 2 Infantry, 1 Space Dock, 1 PDS
+- Starting Techs: Choose any 1 technology that has no prerequisites
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (BB)
+- Tech Effect (No Mecatol): During your tactical actions, if you do not control Mecatol Rex, treat its system as if it contains both an alpha and beta wormhole.
+- Tech Effect (Mecatol): ACTION: If you control Mecatol Rex, exhaust this card to place 1 infantry from your reinforcements on Mecatol Rex.
+- Tech Prerequisite: (YY)
+- Tech: Hegemonic Trade Policy: Exhaust this card when 1 or more of your units use PRODUCTION; swap the resource and influence values of 1 planet you control until the end of your turn.
+- BT Name: Imperator
+- BT Prerequisite: B$\leftrightarrow$R
+- BT Effect (Combat): Apply +1 to the results of each of your unit's combat rolls for each "Support for the Throne" in your opponent's play area.
+- BT Effect (Movement): After you activate a system that contains a legendary planet, apply +1 to the move value of 1 of your ships during this tactical action.
+- Ship: Salai Sai Corian
+- Ship Cost: 8
+- Ship Combat: 7 (x?)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. When this unit makes a combat roll, it rolls a number of dice equal to the number of your opponent's non-fighter ships in this system.
+- Mech: Reclaimer
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. After you resolve a tactical action during which you gained control of this planet, you may place 1 PDS or 1 space dock from your reinforcements on this planet.
+- Agent: Berekar Berekon
+- Agent Effect: When 1 or more of a player's units use PRODUCTION: You may exhaust this card to reduce the combined cost of the produced units by 2.
+- Commander: Rickar Rickani
+- Commander Unlock: Control Mecatol Rex or enter into a combat in the Mecatol Rex system.
+- Commander Effect: During combat: Apply +2 to the result of each of your unit's combat rolls in the Mecatol Rex system, your home system, and each system that contains a legendary planet.
+- Hero Name: Mathis Mathinus
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Perform the primary ability of any strategy card. Then, choose any number of other players. Those players may perform the secondary ability of that strategy card. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Xxcha Kingdom]
+- Home System Name: Archon Ren / Archon Tau
+- Home System Planets: 2/3, 1/1
+- Commodities: 4
+- Ability: Peace Accords: After you resolve the primary or secondary ability of the "Diplomacy" strategy card, you may gain control of 1 planet other than Mecatol Rex that does not contain any units and is in a system that is adjacent to a planet you control.
+- Ability: Quash: When an agenda is revealed, you may spend 1 token from your strategy pool to discard that agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead.
+- PN: Political Favor: After an agenda is revealed: Remove 1 token from the Xxcha player's strategy pool and return it to his reinforcements. Then, discard the revealed agenda and reveal 1 agenda from the top of the deck. Players vote on this agenda instead. Then, return this card to the Xxcha player.
+- Starting Fleet Units: 1 Carrier, 2 Cruisers, 3 Fighters, 4 Infantry, 1 Space Dock, 1 PDS
+- Starting Techs: Graviton Laser System (Y)
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (G)
+- Tech: Instinct Training: You may exhaust this card and spend 1 token from your strategy pool when another player plays an action card; cancel that action card.
+- Tech Prerequisite: (YY)
+- Tech: Nullification Field: After another player activates a system that contains 1 or more of your ships, you may exhaust this card and spend 1 token from your strategy pool; immediately end that player's turn.
+- BT Name: Archon's Gift
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect: You can spend influence as if it were resources. You can spend resources as if it were influence.
+- Ship: Loncara Ssodu
+- Ship Cost: 8
+- Ship Combat: 7 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. SPACE CANNON 5 (x3). You may use this unit's SPACE CANNON against ships that are in adjacent systems.
+- Mech: Indomitus
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. SPACE CANNON 8. You may use this unit's SPACE CANNON against ships that are in adjacent systems.
+- Agent: Ggrocuto Rinn
+- Agent Effect: ACTION: Exhaust this card to ready any planet; if that planet is in a system that is adjacent to a planet you control, you may remove 1 infantry from that planet and return it to its reinforcements.
+- Commander: Elder Qanoj
+- Commander Unlock: Control planets that have a combined total of at least 12 influence.
+- Commander Effect: Each planet you exhaust to cast votes provides 1 additional vote. Game effects cannot prevent you from voting on an agenda.
+- Hero Name: Xxekir Grom $\Omega$
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Place any combination of up to 4 PDS or mech onto planets you control, ready each planet that you place a unit on. Then purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Yin Brotherhood]
+- Home System Name: Darien
+- Home System Planets: 4/4
+- Commodities: 2
+- Ability: Indoctrination: At the start of a ground combat, you may spend 2 influence to replace 1 of your opponent's participating infantry with 1 infantry from your reinforcements.
+- Ability: Devotion: After each space battle round, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit and assign it to 1 of your opponent's ships in that system.
+- PN: Greyfire Mutagen $\Omega$: At the start of a ground combat against 2 or more ground forces that are not controlled by the Yin player: Replace 1 of your opponent's infantry with 1 infantry from your reinforcements. Then, return this card to the Yin player.
+- Starting Fleet Units: 2 Carriers, 1 Destroyer, 4 Fighters, 4 Infantry, 1 Space Dock
+- Starting Techs: Sarween Tools (0)
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (GG)
+- Tech: Yin Spinner $\Omega$: After you produce units, place up to 2 infantry from your reinforcements on any planet you control or in any space area that contains 1 or more of your ships.
+- Tech Prerequisite: (YY)
+- Tech: Impulse Core: At the start of a space combat, you may destroy 1 of your cruisers or destroyers in the active system to produce 1 hit against your opponent's ships; that hit must be assigned by your opponent to 1 of his non-fighter ships if able.
+- BT Name: Yin Ascendant
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect: When you gain this card or score a public objective, gain the alliance ability of a random, unused faction.
+- Ship: Van Hauge
+- Ship Cost: 8
+- Ship Combat: 9 (x2)
+- Ship Move: 1
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. When this ship is destroyed, destroy all ships in this system.
+- Mech: Moyin's Ashes
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. DEPLOY: When you use your Indoctrination faction ability, you may spend 1 additional influence to replace your opponent's unit with 1 mech instead of 1 infantry.
+- Agent: Brother Milor $\Omega$
+- Agent Effect: After a player's unit is destroyed: You may exhaust this card to allow that player to place 2 fighters in the destroyed unit's system if it was a ship, or 2 infantry if it was a ground force.
+- Commander: Brother Omar $\Omega$
+- Commander Unlock: Use one of your faction abilities.
+- Commander Effect 1 (Prerequisite): This card satisfies a green technology prerequisite.
+- Commander Effect 2 (Research): When you research a tech owned by another player, you may return 1 of your infantry to reinforcements to ignore its prerequisites.
+- Hero Name: Dannel of the Tenth $\Omega$
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Commit up to 3 infantry from your reinforcements to any non-home planets and resolve invasions on those planets; players cannot use SPACE CANNON against those units. Then, purge this card.
+- nan: nan
+
+##################################################
+
+[FACTION: Yssaril Tribes]
+- Home System Name: Retillion / Shalloq
+- Home System Planets: 2/3, 1/2
+- Commodities: 3
+- Ability: Stall Tactics: ACTION: Discard 1 action card from your hand.
+- Ability: Scheming: When you draw 1 or more action cards, draw 1 additional action card. Then, choose and discard 1 action card from your hand.
+- Ability 3 Name: Crafty
+- Ability 3 Effect: You can have any number of action cards in your hand. Game effects cannot prevent you from using this ability.
+- PN: Spy Net: At the start of your turn: Look at the Yssaril player's hand of action cards. Choose 1 of those cards and add it to your hand. Then, return this card to the Yssaril player.
+- Starting Fleet Units: 2 Carriers, 1 Cruiser, 2 Fighters, 5 Infantry, 1 Space Dock, 1 PDS
+- Starting Techs: Neural Motivator (0)
+- Unit: nan
+- Unit Type: nan
+- Tech Prerequisite: (GGG)
+- Tech: Mageon Implants: ACTION: Exhaust this card to look at another player's hand of action cards. Choose 1 of those cards and add it to your hand.
+- Tech Prerequisite: (G)
+- Tech: Transparasteel Plating: During your turn of the action phase, players that have passed cannot play action cards.
+- BT Name: Deepgloom Executable
+- BT Prerequisite: Y$\leftrightarrow$G
+- BT Effect: You can allow other players to use your STALL TACTICS or SCHEMING faction abilities; when you do, you may resolve a transaction with that player. During the action phase, that transaction does not count against the once-per-player transaction limit for that turn.
+- Ship: Y'sia Y'ssrila
+- Ship Cost: 8
+- Ship Combat: 5 (x2)
+- Ship Move: 2
+- Ship Capacity: 3
+- Ship Abilities: Sustain Damage. This ship can move through systems that contain other player's ships.
+- Mech: Blackshade Infiltrator
+- Mech Cost: 2
+- Mech Combat: 6
+- Mech Abilities: Sustain Damage. DEPLOY: After you use your Stall Tactics faction ability, you may place 1 mech on a planet you control.
+- Agent: Ssruu
+- Agent Effect: This card has the text ability of each other player's agent, even if that agent is exhausted.
+- Commander: So Ata
+- Commander Unlock: Have 7 action cards.
+- Commander Effect: After another player activates a system that contains your units: You may look at that player's action cards, promissory notes, or secret objectives.
+- Hero Name: Kyver, Blade and Key
+- Hero Unlock: Have 3 scored objectives.
+- Hero Effect: ACTION: Each other player shows you 1 action card from their hand. For each player, you may either take that card or force that player to discard 3 random action cards from their hand. Then, purge this card.
+- nan: nan

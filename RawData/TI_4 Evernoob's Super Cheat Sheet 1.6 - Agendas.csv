@@ -1,0 +1,154 @@
+Agenda Cards,,,,,
+,,,,,
+Name,Type,Elected Target,Effect if passes,Effect if it doesn't pass,Clarifications / Repeal Law interactions
+Archived Secret,Directive,Player,The elected player draws 1 secret objective.,-,Regular Secret Objective rules apply (3 total).
+Arms Reduction,Directive,,Each player destroys all but 2 of his dreadnoughts and all but 4 of his cruisers.,"At the start of the next strategy phase, each player exhausts each of his planets that have a technology specialty.",Regular Fleet Capacity ruless apply.
+Colonial Redistribution,Directive,Non-Home Planet Other Than Mecatol Rex,"Destroy each unit on the elected planet. Then, the player who controls that planet chooses 1 player with the fewest victory points; that player may place 1 infantry from his reinforcements on the elected planet.",-,"Taking the planet is optional for the player with fewest victory points.
+Can choose the target of ""Demilitarized Zone"" agenda. Cannot place an infantry on that planet."
+Compensated Disarmament,Directive,Planet,"Destroy each ground force on the elected planet; for each unit that was destroyed, the player who control that planet gains 1 trade good.",-,GF II roll for survival. 
+Economic Equality,Directive,,"Each player returns all of his trade goods to the supply. Then, each player gains 5 trade goods.",Each player returns all of his trade goods to the supply.,"Happens before riders.
+Trade rider comes into effect after the agenda."
+Incentive Program,Directive,,Draw and reveal 1 stage I public objective from the deck and place it near the public objectives.,Draw and reveal 1 stage II public from the deck and place it near the public objectives.,None
+Ixthian Artifact,Directive,,"The speaker rolls 1 die. If the result is 6-10, each player may research 2 technologies. If the result is 1-5, destroy all units in Mecatol Rex's system, and each player with units in systems adjacent to Mecatol Rex's system destroys 3 of his units in each of those systems.",-,Follows normal research rules.
+Judicial Abolishment,Directive,"Law
+(When this agenda is revealed, if there are no laws in play, discard this card and reveal another agenda from the top of the deck.)",Discard the elected law from play.,-,"Has the same interaction as ""Repeal Law""."
+Miscount Disclosed,Directive,"Law
+(When this agenda is revealed, if there are no laws in play, discard this card and reveal another agenda from the top of the deck.)",Vote on the elected law as if it were just revealed from the top of the deck.,-,Awaiting clarification whether the law is repealed or just outcome changed.
+Mutiny,Directive,,"Each player that voted ""For"" gains 1 victory point.","Each player that voted ""For"" loses 1 victory point.",
+New Constitution,Directive,"Law
+(When this agenda is revealed, if there are no laws in play, discard this card and reveal another agenda from the top of the deck.)","Discard all laws from play. At the start of the next strategy phase, each player exhausts each planet in his home system.",-,"Has the same interaction as ""Repeal Law""."
+Public Execution,Directive,Player,"The elected player discards all of his action cards. If he has the speaker token, he gives it to the player on his left. The elected player cannot vote on any agendas during this agenda phase.",-,
+Seed of an Empire,Directive,,The player with the most victory points gains 1 victory point.,The player with the fewest victory points gains 1 victory point.,"In case of a tie, all elligible players gain the VP.
+"
+Swords to Plowshares,Directive,,"Each player destroys half of his infantry on each planet he controls, rounded up. Then, each player gains trade goods equal to the number of his infantry that were destroyed.",Each player places 1 infantry from his reinforcements on each planet he controls.,GF IIs roll for survival.
+Unconventional Measures,Directive,,"Each player that voted ""For"" draws 2 action cards.","Each player that voted ""For"" discards all of his action cards.",Regular hand size limit applies.
+Wormhole Research,Directive,,"Each player who has 1 or more ships in a system that contains a wormhole may research 1 technology. Then, destroy all ships in systems that contain an alpha or beta wormhole.","Each player that voted ""Against"" removes 1 command token from his command sheet and returns it to his reinforcements.","Regular research rules apply.
+One technology regardless if one player has ships in more than 1 system that contains a wormhole.
+Ghost of Creuss Delta Wormhole applies for the technology.
+Ghost of Creuss Delta Wormhole does not require players to destroy ships."
+Anti-Intelectual Revolution,Law,,"After a player researches a technology, he must destroy 1 of his non-fighter ships.","At the start of the next strategy phase, each player chooses and exhausts 1 planet for each technology he owns.","When repealed: Players no longer need to destroy a non-fighter ship when researching technologies.
+Does affect: Researching technologies in any phase.
+Does NOT affect: Gaining technologies."
+Classified Document Leaks,Law,"Scored Secret Objective
+(When this agenda is revealed, if there are no scored secret objectives, discard this card and reveal another agenda from the top of the deck.)",The elected secret objective becomes a public objective; place it near the other public objectives in the common play area.,-,"The chosen SO no longer counts towards the regular limit of 3 SOs for the player who originally scored the SO.
+WHEN REPEALED:
+IF: Original owner has 3 scored SO, they now have 4 scored SO.
+IF: Original owner has less than 3 scored SO, he needs to discard down to a total of 3 scored and unscored.
+IF: Anyone else has scored the publicized SO - they are not affected"
+Comittee Formation,Law,Player,"The elected player gains this card.
+Before players vote on an agenda that requires a player to be elected, the owner of this card may discard this card to choose a player to be elected. Players do not vote on that agenda.",-,When repealed: Player can no longer use the law.
+Conventions of War,Law,,Players cannot use BOMBARDMENT against units that are on cultural planets.,"Each player that voted ""Against"" discards all of his action cards.",When repealed: Players can use BOMBARDMENT against units that are on cultural planets.
+"Core Mining 
+(Removed with PoK)",Law,Hazardous Planet,"Attach this card to the elected planet's card. Then, destroy 1 infantry on the planet.
+The resource value of this planet is increased by 2.",-,When repealed: The resource value of the planet is no longer increased by 2.
+"Demilitarized Zone 
+(Removed with PoK)",Law,Cultural Planet,"Attach this card to the elected planet's card. Then, destroy all units on that planet.
+Player's units cannot land, be produced, or be placed on this planet.",-,"When repealed: Player's units can land, be produced pr be placed on the planet.
+Xxcha can take control via ""Peace Accords""."
+Enforced Travel Ban,Law,,Alpha and beta wormholes have no effect during movement.,Destroy each PDS in or adjacent to a system that contains a wormhole.,"When repealed: Alpha and Beta wormholes have an effect during movement.
+Ghost of Creuss are not affected by the restriction."
+Executive Sanctions,Law,,Each player can have a maximum of 3 action cards in his hand.,Each player discards 1 random action card from his hand.,"When repealed: Each player follows the regular hand-size limit.
+The Yssaril Tribes are not affected by the limitation."
+Fleet Regulations,Law,,Each player cannot have more than 4 tokens in his fleet pool.,Each player places 1 command token from his reinforcements in his fleet pool.,When repealed: Each player can have as many tokens in his fleet pool.
+"Holy Planet of Ixth
+(Removed with PoK)",Law,Cultural Planet,"Attach this card to the elected planet's card. The planet's owner gains 1 victory point.
+Units on this planet cannot use PRODUCTION.
+When a player gains control of this planet, he gains 1 victory point. When a player loses control of this planet, he loses 1 victory point.",-,"When repealed: Owner of planet does NOT lose the VP.
+When repealed: Units on the planet can use PRODUCTION."
+Homeland Defense Act,Law,,Each player can have any number of PDS units on planets he controls.,Each player destroys 1 of his PDS units.,When repealed: Destroy down to 2 PDS on each planet.
+Imperial Arbiter,Law,Player,"The elected player gains this card.
+At the end of the strategy phase, the owner of this card may discard this card to swap 1 of his strategy cards with 1 of another player's strategy cards.",-,"When repealed: Player can no longer use the card.
+Any TGs on the SC remain with the player that picked the SC first.
+Response happens in clock-wise order from owner of this card - relevant only if Hacan with Quantum Datahub Node are in play."
+Minister of Commerce,Law,Player,"The elected player gains this card.
+After the owner of this card replenishes commodities, he gains 1 trade good for each player that is his neighbor.",-,When repealed: Player no longer receives TGs when replenishing commodities.
+Minister of Exploration,Law,Player,"The elected player gains this card.
+When the owner of this card gains control of a planet, he gains 1 trade good.",-,When repealed: Player no longer gains TGs when gaining control of a planet.
+Minister of Industry,Law,Player,"The elected player gains this card.
+When the owner of this card places a space dock in a system, his units in that system may use their PRODUCTION abilities.",-,"When repealed: Player's units can no longer use PRODUCTION abilities when placing a space dock.
+Can use the PRODUCTION ability of ALL units in the system.
+Cannot be used together with effects that ""replace"" units."
+Minister of Peace,Law,Player,"The elected player gains this card.
+After a player activates a system that contains 1 or more of a different player's units, the owner of this card may discard this card; immediately end the active player's turn.",-,"When repealed: Player can no longer use the law.
+"
+Minister of Policy,Law,Player,"The elected player gains this card.
+At the end of the status phase, the owner of this card draws 1 action card.",-,"When repealed: Player no longer draws 1 card at end of Status Phase.
+Yssaril Tribes: Separate instance of drawing cards"
+Minister of Sciences,Law,Player,"The elected player gains this card.
+When the owner of this card resolves the primary or secondary ability of the ""Technology"" strategy card, he does not need to spend resources to research technology.",-,"When repealed: Player needs to spend resources when resolving the ""Technology strategy card.
+Other research rules apply."
+Minister of War,Law,Player,"The elected player gains this card.
+The owner of this card may discard this card after performing an action to remove 1 of his command counters from the game board and return it to his reinforcements; then he may perform 1 additional action.",-,"When repealed: Player can no longer use the law.
+Think of it as ""Unexpected action"" -> Fleet logistics."
+Prophecy of Ixth,Law,Player,"The elected player gains this card.
+The owner of this card applies +1 to the result of his fighter's combat rolls. When the owner of this card uses PRODUCTION, he discards this card unless he produces 2 or more fighters.",-,"When repealed: Fighters no longer get +1 to combat rolls.
+2 fighters need to be produced for EVERY unit that uses ""PRODUCTION"", including Letani Warriors."
+Publicize Weapon Schematics,Law,-,"If any player owns a war sun technology, all player may ignore all prerequisites on war sun technologies. All war suns lose Sustain Damage.",Each player that owns a war sun technology discards all of his action cards.,"When repealed: Players no longer ignore War Sun prerequisites
+Technology still needs to be researched.
+Muaat's PWS I does NOT count as a WS technology. PWS II does."
+Regulated Conscription,Law,,"When a player produces units, he produces only 1 fighter and infantry for its cost instead of 2.",-,"When repealed: When a player produces units, he NO longer produces only 1 fighter and infantry for its cost instead of 2."
+"Representatative Government
+(Removed with PoK)",Law,,Player cannot exhaust planets to cast votes during the agenda phase; each player may cast 1 vote on each agenda instead.,"At the start of the next strategy phase, each player that voted ""Against"" exhausts all of his cultural planets.","When repealed: Players use their influence for voting.
+Bribery and Distinguished councellor are unaffected by this law."
+"Research Team: Biotic
+(Removed with PoK)",Law,Industrial Planet,"Attach this card to the elected planet's card.
+When the owner of this planet researches technology, he may exhaust this card to ignore 1 green prerequisite.",-,"When repealed: Player can no longer use this card.
+This card is separate from the planet.
+You can exhaust this card as a prerequisite and leave the planet ready.
+This card does not count as a tech skip for objectives."
+"Research Team: Cybernetic
+(Removed with PoK)",Law,Industrial Planet,"Attach this card to the elected planet's card.
+When the owner of this planet researches technology, he may exhaust this card to ignore 1 yellow prerequisite.",-,"When repealed: Player can no longer use this card.
+This card is separate from the planet.
+You can exhaust this card as a prerequisite and leave the planet ready.
+This card does not count as a tech skip for objectives."
+"Research Team: Propulsion
+(Removed with PoK)",Law,Industrial Planet,"Attach this card to the elected planet's card.
+When the owner of this planet researches technology, he may exhaust this card to ignore 1 blue prerequisite.",-,"When repealed: Player can no longer use this card.
+This card is separate from the planet.
+You can exhaust this card as a prerequisite and leave the planet ready.
+This card does not count as a tech skip for objectives."
+"Research Team: Warfare
+(Removed with PoK)",Law,Hazardous Planet,"Attach this card to the elected planet's card.
+When the owner of this planet researches technology, he may exhaust this card to ignore 1 red prerequisite.",-,"When repealed: Player can no longer use this card.
+This card is separate from the planet.
+You can exhaust this card as a prerequisite and leave the planet ready.
+This card does not count as a tech skip for objectives."
+"Senate Sanctuary
+(Removed with PoK)",Law,Cultural Planet,"Attach this card to the elected planet's card.
+The influence value of this planet is increased by 2.",-,When repealed: The planet's influence value is no longer increased by 2.
+"Shard of the Throne 
+(Removed with PoK)",Law,Player,"The elected player gains this card and 1 victory point.
+A player gains this card and 1 victory point when he wins a combat against the owner of this card. Then, the previous owner of this card loses 1 victory point.",-,When repealed: Owner of card does not lose the VP.
+Shared Research,Law,,Each player's units can move through nebulae.,"Each player places a command token from his reinforcements in his home system, if able.","When repealed: Each player's units follow regular nebulae units.
+If a player does not have CC in reinforcements, he does not place CC in the home system from elsewhere."
+"Terraforming Initiative
+(Removed with PoK)",Law,Hazardous Planet,"Attach this card to the elected planet's card.
+The resource and influence values of this planet are increased by 1.",-,When repealed: The planet's resource and influence values are no longer increased by 1.
+"The Crown of Emphidia
+(Removed with PoK)",Law,Player,"The elected player gains this card and 1 victory point.
+A player gains this card and 1 victory point after he gains control of a planet in the home system of this card's owner. Then, the previous owner of this card loses 1 victory point.",-,When repealed: Owner of card does NOT lose the VP.
+"The Crown of Thanlos
+(Removed with PoK)",Law,Player,"The elected player gains this card.
+During each combat round, the owner of this card may reroll any number of dice; he must destroy each of his units that did not produce a hit with its reroll.",-,"When repealed: Player can NO longer reroll combat rolls.
+Rerolls happen for each type of unit immediately after rolling for it. 
+As attacker: Rerolls happen before defender rolls.
+As defender: Rerolls happen before assigning hits.
+Can reroll partial dice - Warsun/some flagships.If any of the dice hit, the unit is not destroyed."
+Wormhole Reconstruction,Law,,All systems that contain either an alpha or beta wormhole are adjacent to each other.,Each player places a command token from his reinforcements in each system that contains a wormhole and 1 or more of his ships.,When repealed: Systems that contain an alpha wormhole are NO longer adjacent to systems that contain a beta wormhole.
+Armed Forces Standardization,Directive,Player,"The elected player place command tokens from their reinforcements so that they have 3 tokens in their tactic pool, 3 tokens in their fleet pool, and 2 tokens in their strategy pool. They return any excess tokens to their reinforcements.",,
+Articles of War,Law,,All mechs lose their printed abilities except for Sustain Damage.,"Each player that voted ""For"" gets 3 trade goods.",
+Checks and Balances,Law,,"When a player chooses a strategy card during the strategy phase, they give that strategy card to another player who does not have 1 (or a player who does not have 2 is a three- or four-player game), if able.",Each player readies only 3 of their planets at the end of this agenda phase.,
+Clandestine Operations,Directive,,Each player removes 2 command tokens from their command sheet and return those tokens to their reinforcements.,Each player removes 1 command token from their fleet pool and returns that token to their reinforcements.,
+Covert Legislation,Directive,"When this agenda is revealed, the speaker draws the next card in the agenda deck but does not reveal it to the other players. Instead, the speaker reads the eligible outcomes aloud (for, against, elect player, etc.); the other players vote for these outcomes as if they were outcomes of this agenda, without knowing their effects.",,,
+Galactic Crisis Pact,Directive,Strategy Card,Each player may perform the secondary ability of the elected strategy card without spending a command token; command tokens placed by the ability are placed from a player's reinforcements instead.,,
+Minister of Antiquities,Directive,Player,The elected player gains 1 relic.,,
+Nexus Sovereignty,Law,,Alpha and beta wormholes in the wormhole nexus have no effect during movement.,Place a gamma wormhole token in the Mecatol Rex system.,
+Political Censure,Law,Player,"The elected player gains this card and 1 victory point.
+The elected player cannot play action cards.
+If the owner of this card loses this card, they lose 1 victory point.",,
+Rearmament Agreement,Directive,,Each player places 1 mech from their reinforcements on a planet they control in their home system.,Each player replaces each of their mechs with 1 infantry from their reinforcements.,
+Representative Government,Law,,Players cannot exhaust planets to cast votes during the agenda phase; each player may cast 1 vote on each agenda instead. Players cannot cast additional votes.,"At the start of the next strategy phase, each player that voted ""Against"" exhausts all of their cultural planets.",
+Research Grant Reallocation,Directive,Player,"The elected player gains any 1 technology of their choice. Then, for each prerequisite on that technology, they remove 1 token from their fleet pool and return it to their reinforcements.",,
+Search Warrant,Law,Player,"The elected player gains this card and draws 2 secret objectives.
+The owner of this card plays with their secret objectives revealed.",,

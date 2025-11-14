@@ -1,0 +1,42 @@
+Category,Attribute,Value
+Strategy Card 1,Card Name,Leadership
+,Primary Effect 1,Gain 3 command tokens.
+,Primary Effect 2,Spend any amount of influence to gain 1 command token for every 3 influence spent.
+,Secondary Prerequisite,Spend 1 token from your strategy pool.
+,Secondary Effect,Spend any amount of influence to gain 1 command token for every 3 influence spent.
+Strategy Card 2,Card Name,Diplomacy
+,Primary Effect 1,Choose 1 system other than Mecatol Rex that contains a planet you control; each other player places a command token from his reinforcements in the chosen system.
+,Primary Effect 2,"Then, ready up to two exhausted planets you control."
+,Secondary Prerequisite,Spend 1 token from your strategy pool.
+,Secondary Effect,Ready up to 2 exhausted planets you control.
+Strategy Card 3,Card Name,Politics
+,Primary Effect 1,Choose a player other than the speaker. That player gains the speaker token.
+,Primary Effect 2,Draw 2 action cards.
+,Primary Effect 3,Look at the top 2 cards of the agenda deck. Place each card on the top or bottom of the deck in any order.
+,Secondary Prerequisite,Spend 1 token from your strategy pool.
+,Secondary Effect,Draw 2 action cards.
+Strategy Card 4,Card Name,Construction II
+,Primary Effect,"Either place 1 structure on a planet you control, or use the PRODUCTION ability of 1 of your space docks."
+,Secondary Prerequisite,Spend 1 token from your strategy pool.
+,Secondary Effect,Place 1 structure on a planet you control.
+Strategy Card 5,Card Name,Trade
+,Primary Effect 1,Gain 3 trade goods.
+,Primary Effect 2,Replenish commodities.
+,Primary Effect 3,Choose any number of other players. Those players use the secondary ability of this strategy card without spending a command token.
+,Secondary Prerequisite,Spend 1 token from your strategy pool.
+,Secondary Effect,Replenish commodities.
+Strategy Card 6,Card Name,Warfare II
+,Primary Effect 1,"Perform a tactical action in any system without placing a command token, even if the system already has your command token in it; that system still counts as being activated."
+,Primary Effect 2,You may redistribute your command tokens before and after this action.
+,Secondary Prerequisite,Spend 1 token from your strategy pool.
+,Secondary Effect,Use the PRODUCTION abilities of the units in your home system.
+Strategy Card 7,Card Name,Technology
+,Primary Effect 1,Research 1 technology.
+,Primary Effect 2,Spend 6 resources to research 1 technology.
+,Secondary Prerequisite,Spend 1 token from your strategy pool and 4 resources.
+,Secondary Effect,Research 1 technology.
+Strategy Card 8,Card Name,Imperial
+,Primary Effect 1,Immediately score 1 public objective if you fulfill its requirements.
+,Primary Effect 2,"Gain 1 victory point if you control Mecatol Rex; otherwise, draw 1 secret objective."
+,Secondary Prerequisite,Spend 1 token from your strategy pool.
+,Secondary Effect,Draw 1 secret objective.
