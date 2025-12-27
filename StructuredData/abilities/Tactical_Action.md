@@ -1,0 +1,34 @@
+# Tactical Action
+## Specific rule - [The tactical action is the primary method by which players produce units, move ships, and extend their dominion within the galaxy. To perform a tactical action, the active player performs the following steps:]
+### Rule points
+1. Step 1 – Activation : The active player must activate a system that does not contain one of their command tokens.
+
+    1. To activate a system, the active player places a command token from their tactic pool in that system. That system is the active system.
+    2. Other players’ command tokens do not prevent a player from activating a system.
+2. Step 2 – Movement : The active player may move any number of ships that have a sufficient move value from any number of systems that do not contain one of their command tokens into the active system, following the rules for movement.
+
+    1. Ships that have capacity values can transport ground forces and fighters when moving.
+    2. The player may choose to not move any ships.
+    3. After the Move Ships step, all players can use the Space Cannon abilities of their units in the active system.
+3. Step 3 – Space Combat : If two players have ships in the active system, those players must resolve a space combat.
+
+    1. If the active player is the only player with ships in the system, they skip this step.
+4. Step 4 – Invasion : The active player may use their Bombardment abilities, commit units to land on planets, and resolve ground combat against other players’ units.
+5. Step 5 – Production : The active player may resolve each of their unit’s Production abilities in the active system.
+
+    1. The active player may do this even if they did not move units or land ground forces during this tactical action.
+
+### Notes
+- Each of these five steps happen during every tactical action, unless explicitly skipped; the active player does not have to choose between fighting a combat or producing units, for example.
+- Any abilities that occur at the end of an action happen before any abilities that occur at the end of a player’s turn.
+
+### related topic
+- Action Phase
+- Active System
+- Command Sheet
+- Command Tokens
+- Invasion
+- Movement
+- Producing Units
+- Production
+- Space Combat
