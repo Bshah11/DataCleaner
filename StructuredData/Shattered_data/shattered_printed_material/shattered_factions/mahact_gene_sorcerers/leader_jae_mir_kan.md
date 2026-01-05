@@ -1,0 +1,7 @@
+# FACTION: Mahact Gene-Sorcerers
+## TYPE: Leader (agent)
+### COMPONENT: Jae Mir Kan
+
+**Unlock Condition**: None
+
+**Ability**: When you would spend a command token during the secondary ability of a strategic ACTION: You may exhaust this card to remove 1 of the active player's command tokens from the board and use it instead.

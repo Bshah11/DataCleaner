@@ -1,0 +1,7 @@
+# FACTION: The Empyrean
+## TYPE: Leader (hero)
+### COMPONENT: Conservator Procyon
+
+**Unlock Condition**: Have 3 scored objectives.
+
+**Ability**: Multiverse Shift: ACTION: Place 1 frontier token in each system that does not contain any planets and does not already have a frontier token. Then, explore each frontier token that is in a system that contains 1 or more of your ships. Then, purge this card.

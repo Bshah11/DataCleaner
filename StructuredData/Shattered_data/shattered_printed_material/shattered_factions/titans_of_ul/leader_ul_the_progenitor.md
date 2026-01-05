@@ -1,0 +1,7 @@
+# FACTION: Titans of Ul
+## TYPE: Leader (hero)
+### COMPONENT: Ul the Progenitor
+
+**Unlock Condition**: Have 3 scored objectives.
+
+**Ability**: Geoform: ACTION: Ready Elysium and attach this card to it. Its resource and influence values are each increased by 3, and it gains the SPACE CANNON 5 (x3) ability as if it were a unit.

@@ -1,0 +1,76 @@
+[
+  {
+    "note_id": "PROMISSORY_SUPPORT_TO_THE_THRONE",
+    "name": "Support to the Throne",
+    "source": "base",
+    "type": "standard",
+    "timing": "When you receive this card",
+    "effect": "If you are not the {{color}} player, you must place it faceup in your play area and gain 1 victory point.",
+    "metadata": {
+      "expiration": "When you activate a system that contains 1 or more of the {{color}} player's units, or if the {{color}} player is eliminated, lose 1 victory point and return this card.",
+      "clarifications": [
+        "This is a faceup permanent effect.",
+        "Victory point loss is immediate upon activation."
+      ]
+    }
+  },
+  {
+    "note_id": "PROMISSORY_TRADE_AGREEMENT",
+    "name": "Trade Agreement",
+    "source": "base",
+    "type": "standard",
+    "timing": "When the {{color}} player replenishes commodities",
+    "effect": "The {{color}} player gives you all of his commodities. Then, return this card to the {{color}} player.",
+    "metadata": {
+      "sabotage_window": "After commodities are replenished but before they are traded.",
+      "clarifications": [
+        "The player receiving the commodities does not need to have a neighbor relationship at the moment of replenishment."
+      ]
+    }
+  },
+  {
+    "note_id": "PROMISSORY_POLITICAL_SECRET",
+    "name": "Political Secret",
+    "source": "base",
+    "type": "standard",
+    "timing": "When an agenda is revealed",
+    "effect": "The {{color}} player cannot vote, play action cards, or use faction abilities until after that agenda has been resolved. Then, return this card to the {{color}} player.",
+    "metadata": {
+      "sabotage_window": "Immediately after the agenda is revealed, before any other cards are played.",
+      "clarifications": [
+        "Prevents the use of 'Riders' by the targeted player.",
+        "Prevents the use of 'Sabotage' by the targeted player for that agenda window."
+      ]
+    }
+  },
+  {
+    "note_id": "PROMISSORY_CEASEFIRE",
+    "name": "Ceasefire",
+    "source": "base",
+    "type": "standard",
+    "timing": "After the {{color}} player activates a system that contains 1 or more of your units",
+    "effect": "The {{color}} player cannot move units to the active system. Then return this card to the {{color}} player.",
+    "metadata": {
+      "sabotage_window": "After the system is activated, but before the Movement step begins.",
+      "clarifications": [
+        "The activation token remains in the system.",
+        "Units already in the system cannot move, and units from other systems cannot enter."
+      ]
+    }
+  },
+  {
+    "note_id": "PROMISSORY_ALLIANCE",
+    "name": "Alliance",
+    "source": "pok",
+    "type": "standard",
+    "timing": "When you receive this card",
+    "effect": "If you are not the {{color}} player, you must place it faceup in your play area. While this card is in your play area, you can use the {{color}} player's commander ability, if it is unlocked.",
+    "metadata": {
+      "expiration": "When you activate a system that contains 1 or more of the {{color}} player's units, return this card to the {{color}} player.",
+      "clarifications": [
+        "Does not grant the ability if the {{color}} player has not yet met their own commander unlock requirement.",
+        "You do not gain the commander unit itself, only the ability text."
+      ]
+    }
+  }
+]

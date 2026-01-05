@@ -1,0 +1,7 @@
+# FACTION: Xxcha Kingdom
+## TYPE: Leader (agent)
+### COMPONENT: Ggrocuto Rinn
+
+**Unlock Condition**: None
+
+**Ability**: ACTION: Exhaust this card to ready any planet; if that planet is in a system that is adjacent to a planet you control, you may remove 1 infantry from that planet and return it to its reinforcements.

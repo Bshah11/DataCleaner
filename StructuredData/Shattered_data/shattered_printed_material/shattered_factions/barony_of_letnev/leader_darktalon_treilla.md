@@ -1,0 +1,9 @@
+# FACTION: Barony of Letnev
+## TYPE: Leader (hero)
+### COMPONENT: Darktalon Treilla
+
+**Unlock Condition**: Have 3 scored objectives.
+
+**Ability**: Dark Matter Affinity:
+ACTION: Place this card near the game board; the number of non-fighter ships you can have in systems is not limited by laws or by the number of command tokens in your fleet pool during this game round.
+At the end of that game round, purge this card.

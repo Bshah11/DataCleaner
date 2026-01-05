@@ -1,0 +1,368 @@
+[
+  {
+    "card_id": "EXP_CUL_FREELANCERS",
+    "name": "Freelancers",
+    "deck_type": "Cultural",
+    "quantity": 3,
+    "text": "You may produce 1 unit in this system; you may spend influence as if it were resources to produce this unit.",
+    "metadata": {
+      "flavor": "As part of the annexation agreement, local artisans would be well paid to lay the groundwork for military installations...",
+      "ruling_notes": "The production follows standard timing rules for exploration. Spending influence as resources is restricted to this specific production event."
+    }
+  },
+  {
+    "card_id": "EXP_CUL_MERCENARY_OUTFIT",
+    "name": "Mercenary Outfit",
+    "deck_type": "Cultural",
+    "quantity": 3,
+    "text": "You may place 1 infantry from your reinforcements on this planet.",
+    "metadata": {
+      "flavor": "\"My mates and I used to be 4th Air Legion, but we figured we could make more money working freelance.\"",
+      "ruling_notes": "Placing a unit is not 'producing' a unit; it ignores production limits and costs."
+    }
+  },
+  {
+    "card_id": "EXP_CUL_GAMMA_WORMHOLE",
+    "name": "Gamma Wormhole",
+    "deck_type": "Cultural",
+    "quantity": 1,
+    "text": "Place a gamma wormhole token in this system. Then, purge this card.",
+    "metadata": {
+      "flavor": "The gravic sensors howled a warning. Ahead of the ship was a ring of twisted starlight...",
+      "ruling_notes": "Purging is a mandatory part of the card resolution."
+    }
+  },
+  {
+    "card_id": "EXP_CUL_DEMILITARIZED_ZONE",
+    "name": "Demilitarized Zone",
+    "deck_type": "Cultural",
+    "quantity": 1,
+    "text": "Return all structures on this planet to your reinforcements. Then, return all ground forces on this planet to the space area. Attach: Units cannot be committed to, produced on, or placed on this planet. During the agenda phase, this planet's planet card can be traded as part of a transaction.",
+    "metadata": {
+      "ruling_notes": "This attachment prevents all forms of unit placement (production, abilities, or commitment). The trading rule is an exception to standard transaction restrictions."
+    }
+  },
+  {
+    "card_id": "EXP_CUL_DYSON_SPHERE",
+    "name": "Dyson Sphere",
+    "deck_type": "Cultural",
+    "quantity": 1,
+    "text": "Attach: This planet's resource value is increased by 2 and its influence values is increased by 1.",
+    "metadata": {
+      "ruling_notes": "Modifiers apply to the planet card values for all purposes (spending, objectives, etc.)."
+    }
+  },
+  {
+    "card_id": "EXP_CUL_PARADISE_WORLD",
+    "name": "Paradise World",
+    "deck_type": "Cultural",
+    "quantity": 1,
+    "text": "Attach: This planet's influence value is increased by 2.",
+    "metadata": {
+      "ruling_notes": "Direct modifier to the planet's influence stat."
+    }
+  },
+  {
+    "card_id": "EXP_CUL_TOMB_OF_EMPHIDIA",
+    "name": "Tomb of Emphidia",
+    "deck_type": "Cultural",
+    "quantity": 1,
+    "text": "Attach: This planet's influence value is increased by 1. If the player who has the 'Crown of Emphidia' relic has control of this planet, they can use that relic to gain 1 VP.",
+    "metadata": {
+      "ruling_notes": "The VP gain is triggered by the relic's text, which references this specific attachment."
+    }
+  },
+  {
+    "card_id": "EXP_CUL_RELIC_FRAGMENT",
+    "name": "Cultural Relic Fragment",
+    "deck_type": "Cultural",
+    "quantity": 9,
+    "text": "ACTION: Purge 3 of your cultural relic fragments to gain 1 relic.",
+    "metadata": {
+      "ruling_notes": "This is a component action. All 3 fragments must be of the Cultural type."
+    }
+  },
+  {
+    "card_id": "EXP_HAZ_VOLATILE_FUEL_SOURCE",
+    "name": "Volatile Fuel Source",
+    "deck_type": "Hazardous",
+    "quantity": 3,
+    "text": "If you have at least 1 mech on this planet, or if you remove 1 infantry from this planet, gain 1 command token.",
+    "metadata": {
+      "flavor": "It turned out that the continuous lightning storms were an unlimited source of power...",
+      "ruling_notes": "Removing an infantry is a cost. Having a mech is an alternative condition that waives the cost."
+    }
+  },
+  {
+    "card_id": "EXP_HAZ_EXPEDITION",
+    "name": "Expedition",
+    "deck_type": "Hazardous",
+    "quantity": 3,
+    "text": "If you have at least 1 mech on this planet, or if you remove 1 infantry from this planet, ready this planet.",
+    "metadata": {
+      "flavor": "The Eidolon screamed through the atmosphere, corrosive rain streaming harmlessly off the hull...",
+      "ruling_notes": "A planet can be readied even if it was just exhausted to pay for the tactical action that triggered the exploration."
+    }
+  },
+  {
+    "card_id": "EXP_HAZ_CORE_MINE",
+    "name": "Core Mine",
+    "deck_type": "Hazardous",
+    "quantity": 3,
+    "text": "If you have at least 1 mech on this planet, or if you remove 1 infantry from this planet, gain 1 trade good.",
+    "metadata": {
+      "flavor": "\"If we don't seal it now, this mine is going to erupt...\"",
+      "ruling_notes": "Trade goods are gained from the supply."
+    }
+  },
+  {
+    "card_id": "EXP_HAZ_LAZAX_SURVIVORS",
+    "name": "Lazax Survivors",
+    "deck_type": "Hazardous",
+    "quantity": 1,
+    "text": "Attach: This planet's resource value is increased by 1 and its influence value is increased by 2.",
+    "metadata": {
+      "ruling_notes": "Modifiers are permanent while the card is attached. The planet retains its original trait."
+    }
+  },
+  {
+    "card_id": "EXP_HAZ_MINING_WORLD",
+    "name": "Mining World",
+    "deck_type": "Hazardous",
+    "quantity": 1,
+    "text": "Attach: This planet's resource value is increased by 2.",
+    "metadata": {
+      "ruling_notes": "The resource increase applies to the planet card for all game purposes."
+    }
+  },
+  {
+    "card_id": "EXP_HAZ_RICH_WORLD",
+    "name": "Rich World",
+    "deck_type": "Hazardous",
+    "quantity": 1,
+    "text": "Attach: This planet's resource value is increased by 1.",
+    "metadata": {
+      "ruling_notes": "Standard resource modifier attachment."
+    }
+  },
+  {
+    "card_id": "EXP_HAZ_WARFARE_RESEARCH_FACILITY",
+    "name": "Warfare Research Facility",
+    "deck_type": "Hazardous",
+    "quantity": 1,
+    "text": "Attach: This planet has a red technology specialty; if this planet already has a technology specialty, this planet's resource and influence values are each increased by 1 instead.",
+    "metadata": {
+      "ruling_notes": "If the planet has a native specialty (or another attachment providing one), it gains +1/+1. Otherwise, it gains the Red specialty symbol."
+    }
+  },
+  {
+    "card_id": "EXP_HAZ_RELIC_FRAGMENT",
+    "name": "Hazardous Relic Fragment",
+    "deck_type": "Hazardous",
+    "quantity": 7,
+    "text": "ACTION: Purge 3 of your hazardous relic fragments to gain 1 relic.",
+    "metadata": {
+      "ruling_notes": "This is a component action. Requires three fragments specifically from the Hazardous deck."
+    }
+  },
+  {
+    "card_id": "EXP_IND_ABANDONED_WAREHOUSES",
+    "name": "Abandoned Warehouses",
+    "deck_type": "Industrial",
+    "quantity": 4,
+    "text": "You may gain 2 commodities, or you may convert up to 2 of your commodities to trade goods.",
+    "metadata": {
+      "ruling_notes": "Gaining commodities cannot exceed the player's commodity limit. Conversion is a direct flip to trade goods."
+    }
+  },
+  {
+    "card_id": "EXP_IND_FUNCTIONING_BASE",
+    "name": "Functioning Base",
+    "deck_type": "Industrial",
+    "quantity": 4,
+    "text": "You may gain 1 commodity, or you may spend 1 trade good or 1 commodity to draw 1 action card.",
+    "metadata": {
+      "ruling_notes": "The choice must be made immediately upon exploration. Drawing the card follows standard hand-size limits."
+    }
+  },
+  {
+    "card_id": "EXP_IND_LOCAL_FABRICATORS",
+    "name": "Local Fabricators",
+    "deck_type": "Industrial",
+    "quantity": 4,
+    "text": "You may gain 1 commodity, or you may spend 1 trade good or 1 commodity to place 1 mech from your reinforcements on this planet.",
+    "metadata": {
+      "ruling_notes": "Placing a mech is not 'producing' a mech. This ignores production limits but requires the unit to be available in reinforcements."
+    }
+  },
+  {
+    "card_id": "EXP_IND_BIOTIC_RESEARCH_FACILITY",
+    "name": "Biotic Research Facility",
+    "deck_type": "Industrial",
+    "quantity": 1,
+    "text": "Attach: This planet has a green technology specialty; if this planet already has a technology specialty, this planet's resource and influence values are each increased by 1 instead.",
+    "metadata": {
+      "ruling_notes": "Functions identically to the Warfare Research Facility, but provides a Green specialty."
+    }
+  },
+  {
+    "card_id": "EXP_IND_CYBERNETIC_RESEARCH_FACILITY",
+    "name": "Cybernetic Research Facility",
+    "deck_type": "Industrial",
+    "quantity": 1,
+    "text": "Attach: This planet has a yellow technology specialty; if this planet already has a technology specialty, this planet's resource and influence values are each increased by 1 instead.",
+    "metadata": {
+      "ruling_notes": "Provides a Yellow specialty or +1/+1 if a specialty is already present."
+    }
+  },
+  {
+    "card_id": "EXP_IND_PROPULSION_RESEARCH_FACILITY",
+    "name": "Propulsion Research Facility",
+    "deck_type": "Industrial",
+    "quantity": 1,
+    "text": "Attach: This planet has a blue technology specialty; if this planet already has a technology specialty, this planet's resource and influence values are each increased by 1 instead.",
+    "metadata": {
+      "ruling_notes": "Provides a Blue specialty or +1/+1 if a specialty is already present."
+    }
+  },
+  {
+    "card_id": "EXP_IND_RELIC_FRAGMENT",
+    "name": "Industrial Relic Fragment",
+    "deck_type": "Industrial",
+    "quantity": 5,
+    "text": "ACTION: Purge 3 of your industrial relic fragments to gain 1 relic.",
+    "metadata": {
+      "ruling_notes": "Component Action. Requires three fragments of the Industrial type."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_DERELICT_VESSEL",
+    "name": "Derelict Vessel",
+    "deck_type": "Frontier",
+    "quantity": 2,
+    "text": "Draw 1 secret objective.",
+    "metadata": {
+      "ruling_notes": "Normal secret objective limits apply (maximum of 3 scored/unscored combined)."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_ENIGMATIC_DEVICE",
+    "name": "Enigmatic Device",
+    "deck_type": "Frontier",
+    "quantity": 2,
+    "text": "Place this card faceup in your play area. ACTION: You may spend 6 resource and purge this card to research 1 technology.",
+    "metadata": {
+      "ruling_notes": "This is a component action. Spending 6 resources is the cost to research; standard prerequisites still apply."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_GAMMA_RELAY",
+    "name": "Gamma Relay",
+    "deck_type": "Frontier",
+    "quantity": 1,
+    "text": "Place a gamma wormhole token in this system. Then, purge this card.",
+    "metadata": {
+      "ruling_notes": "Adds a permanent wormhole to the system."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_ION_STORM",
+    "name": "Ion Storm",
+    "deck_type": "Frontier",
+    "quantity": 1,
+    "text": "Place the ion storm token in this system with either side faceup. Then, place this card in the common play area. At the end of the 'Move Ships' or 'Retreat' substep of a tactical action during which 1 or more of your ships use the ion storm wormhole, flip the ion storm token to its opposing side.",
+    "metadata": {
+      "ruling_notes": "The card remains in the common area as a rule reminder for all players. The wormhole's adjacency changes dynamically as ships pass through."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_LOST_CREW",
+    "name": "Lost Crew",
+    "deck_type": "Frontier",
+    "quantity": 2,
+    "text": "Draw 2 action cards.",
+    "metadata": {
+      "ruling_notes": "Immediate effect upon resolution."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_MERCHANT_STATION",
+    "name": "Merchant Station",
+    "deck_type": "Frontier",
+    "quantity": 2,
+    "text": "You may replenish your commodities, or you may convert your commodities to trade goods.",
+    "metadata": {
+      "ruling_notes": "Replenish fills up to the limit. Conversion is an all-or-nothing flip of current commodities."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_MIRAGE",
+    "name": "Mirage",
+    "deck_type": "Frontier",
+    "quantity": 1,
+    "text": "Place the Mirage planet token in this system. Gain the Mirage planet card and ready it. Then, purge this card.",
+    "metadata": {
+      "ruling_notes": "Mirage is treated as a cultural planet. It is placed in the system where the Frontier token was explored."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_UNKNOWN_RELIC_FRAGMENT",
+    "name": "Unknown Relic Fragment",
+    "deck_type": "Frontier",
+    "quantity": 3,
+    "text": "The card counts as a relic fragment of any type.",
+    "metadata": {
+      "ruling_notes": "Wildcard fragment. Can be used in combinations of 3 with fragments from any other deck (Cultural, Hazardous, or Industrial)."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_DEAD_WORLD",
+    "name": "Dead World",
+    "deck_type": "Frontier",
+    "quantity": 1,
+    "text": "Draw 1 relic.",
+    "metadata": {
+      "ruling_notes": "Draw the top card of the relic deck. This does not require relic fragments."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_MINOR_ENTROPIC_FIELD",
+    "name": "Minor Entropic Field",
+    "deck_type": "Frontier",
+    "quantity": 1,
+    "text": "Gain 1 command token and 1 trade good.",
+    "metadata": {
+      "ruling_notes": "Command tokens are taken from reinforcements. Trade goods are taken from the supply."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_ENTROPIC_FIELD",
+    "name": "Entropic Field",
+    "deck_type": "Frontier",
+    "quantity": 1,
+    "text": "Gain 1 command token and 2 trade goods.",
+    "metadata": {
+      "ruling_notes": "Standard gain effect. Resources are taken from respective supply/reinforcement pools."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_MAJOR_ENTROPIC_FIELD",
+    "name": "Major Entropic Field",
+    "deck_type": "Frontier",
+    "quantity": 1,
+    "text": "Gain 1 command token and 3 trade goods.",
+    "metadata": {
+      "ruling_notes": "Maximum yield version of the Entropic Field cards."
+    }
+  },
+  {
+    "card_id": "EXP_FRON_KELERES_SHIP",
+    "name": "Keleres Ship",
+    "deck_type": "Frontier",
+    "quantity": 2,
+    "text": "Gain 2 command tokens.",
+    "metadata": {
+      "ruling_notes": "Command tokens are placed in the player's choice of pools (Tactic, Fleet, or Strategy) from reinforcements."
+    }
+  }
+]

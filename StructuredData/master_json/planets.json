@@ -1,0 +1,471 @@
+[
+  { "name": "Abyz", "trait": "Hazardous", "resources": 3, "influence": 0, "specialty": null, "source": "base" },
+  { "name": "Arinam", "trait": "Industrial", "resources": 1, "influence": 2, "specialty": null, "source": "base" },
+  { "name": "Arnor", "trait": "Industrial", "resources": 2, "influence": 1, "specialty": null, "source": "base" },
+  { "name": "Bereg", "trait": "Hazardous", "resources": 3, "influence": 1, "specialty": null, "source": "base" },
+  { "name": "Centauri", "trait": "Cultural", "resources": 1, "influence": 3, "specialty": null, "source": "base" },
+  { "name": "Coorneeq", "trait": "Cultural", "resources": 1, "influence": 2, "specialty": null, "source": "base" },
+  { "name": "Dal Bootha", "trait": "Cultural", "resources": 0, "influence": 2, "specialty": null, "source": "base" },
+  { "name": "Fria", "trait": "Hazardous", "resources": 2, "influence": 0, "specialty": null, "source": "base" },
+  { "name": "Gral", "trait": "Industrial", "resources": 1, "influence": 1, "specialty": "Blue", "source": "base" },
+  { "name": "Lazar", "trait": "Industrial", "resources": 1, "influence": 0, "specialty": "Yellow", "source": "base" },
+  { "name": "Lirta IV", "trait": "Hazardous", "resources": 2, "influence": 3, "specialty": null, "source": "base" },
+  { "name": "Lodor", "trait": "Cultural", "resources": 3, "influence": 1, "specialty": null, "source": "base" },
+  { "name": "Lor", "trait": "Industrial", "resources": 1, "influence": 2, "specialty": null, "source": "base" },
+  { "name": "Meer", "trait": "Hazardous", "resources": 0, "influence": 4, "specialty": "Red", "source": "base" },
+  { "name": "Mehar Xull", "trait": "Hazardous", "resources": 1, "influence": 3, "specialty": "Red", "source": "base" },
+  { "name": "Mellon", "trait": "Cultural", "resources": 0, "influence": 2, "specialty": null, "source": "base" },
+  { "name": "New Albion", "trait": "Industrial", "resources": 1, "influence": 1, "specialty": "Green", "source": "base" },
+  { "name": "Quann", "trait": "Cultural", "resources": 2, "influence": 1, "specialty": null, "source": "base" },
+  { "name": "Qucen'n", "trait": "Industrial", "resources": 1, "influence": 2, "specialty": null, "source": "base" },
+  { "name": "Rarron", "trait": "Cultural", "resources": 0, "influence": 3, "specialty": null, "source": "base" },
+  { "name": "Resculon", "trait": "Cultural", "resources": 2, "influence": 0, "specialty": null, "source": "base" },
+  { "name": "Sakulag", "trait": "Hazardous", "resources": 2, "influence": 1, "specialty": null, "source": "base" },
+  { "name": "Saudor", "trait": "Industrial", "resources": 2, "influence": 2, "specialty": null, "source": "base" },
+  { "name": "Starpoint", "trait": "Hazardous", "resources": 3, "influence": 1, "specialty": null, "source": "base" },
+  { "name": "Tar'mann", "trait": "Industrial", "resources": 1, "influence": 1, "specialty": "Green", "source": "base" },
+  { "name": "Tequ'ran", "trait": "Hazardous", "resources": 2, "influence": 0, "specialty": null, "source": "base" },
+  { "name": "Thibah", "trait": "Industrial", "resources": 1, "influence": 1, "specialty": "Blue", "source": "base" },
+  { "name": "Torkan", "trait": "Cultural", "resources": 0, "influence": 3, "specialty": null, "source": "base" },
+  { "name": "Vefut II", "trait": "Hazardous", "resources": 2, "influence": 2, "specialty": null, "source": "base" },
+  { "name": "Wellon", "trait": "Industrial", "resources": 1, "influence": 2, "specialty": "Yellow", "source": "base" },
+  { "name": "Xxehan", "trait": "Cultural", "resources": 1, "influence": 1, "specialty": null, "source": "base" },
+  { "name": "Zohbat", "trait": "Hazardous", "resources": 3, "influence": 1, "specialty": null, "source": "base" },
+  { "name": "Archon Vail", "trait": "Hazardous", "resources": 1, "influence": 3, "specialty": "Blue", "source": "pok" },
+  { "name": "Perimeter", "trait": "Industrial", "resources": 2, "influence": 1, "specialty": null, "source": "pok" },
+  { "name": "Ang", "trait": "Industrial", "resources": 2, "influence": 0, "specialty": "Red", "source": "pok" },
+  { "name": "Sem-Lore", "trait": "Cultural", "resources": 3, "influence": 2, "specialty": "Yellow", "source": "pok" },
+  { "name": "Vorhal", "trait": "Cultural", "resources": 0, "influence": 2, "specialty": "Green", "source": "pok" },
+  { "name": "Atlas", "trait": "Hazardous", "resources": 3, "influence": 1, "specialty": null, "source": "pok" },
+  { "name": "Cormund", "trait": "Hazardous", "resources": 2, "influence": 0, "specialty": null, "anomaly": "Gravity Rift", "source": "pok" },
+  { "name": "Everra", "trait": "Cultural", "resources": 3, "influence": 1, "specialty": null, "anomaly": "Nebula", "source": "pok" },
+  { "name": "Accoen", "trait": "Industrial", "resources": 2, "influence": 3, "specialty": null, "source": "pok" },
+  { "name": "Jeol Ir", "trait": "Industrial", "resources": 2, "influence": 3, "specialty": null, "source": "pok" },
+  { "name": "Kraag", "trait": "Hazardous", "resources": 2, "influence": 1, "specialty": null, "source": "pok" },
+  { "name": "Siig", "trait": "Hazardous", "resources": 0, "influence": 2, "specialty": null, "source": "pok" },
+  { "name": "Alio Prima", "trait": "Cultural", "resources": 1, "influence": 1, "specialty": null, "source": "pok" },
+  { "name": "Ba'kal", "trait": "Industrial", "resources": 3, "influence": 2, "specialty": null, "source": "pok" },
+  { "name": "Lisis", "trait": "Industrial", "resources": 2, "influence": 2, "specialty": null, "source": "pok" },
+  { "name": "Velnor", "trait": "Industrial", "resources": 2, "influence": 1, "specialty": "Red", "source": "pok" },
+  { "name": "Cealdri", "trait": "Cultural", "resources": 0, "influence": 2, "specialty": "Yellow", "source": "pok" },
+  { "name": "Xanhact", "trait": "Hazardous", "resources": 0, "influence": 1, "specialty": null, "source": "pok" },
+  { "name": "Vega Major", "trait": "Cultural", "resources": 2, "influence": 1, "specialty": null, "source": "pok" },
+  { "name": "Vega Minor", "trait": "Cultural", "resources": 1, "influence": 2, "specialty": "Blue", "source": "pok" },
+  { "name": "Abaddon", "trait": "Cultural", "resources": 1, "influence": 0, "specialty": null, "source": "pok" },
+  { "name": "Ashtroth", "trait": "Hazardous", "resources": 2, "influence": 0, "specialty": null, "source": "pok" },
+  { "name": "Loki", "trait": "Cultural", "resources": 1, "influence": 2, "specialty": null, "source": "pok" },
+  { "name": "Rigel I", "trait": "Hazardous", "resources": 0, "influence": 1, "specialty": null, "source": "pok" },
+  { "name": "Rigel II", "trait": "Industrial", "resources": 1, "influence": 2, "specialty": null, "source": "pok" },
+  { "name": "Rigel III", "trait": "Industrial", "resources": 1, "influence": 1, "specialty": "Green", "source": "pok" },
+  {
+    "name": "Primor",
+    "trait": "Cultural",
+    "resources": 2,
+    "influence": 1,
+    "is_legendary": true,
+    "ability_name": "The Atrament",
+    "ability_text": "You may exhaust this card at the end of your turn to place up to 2 infantry from your reinforcements on any planet you control.",
+    "source": "pok"
+  },
+  {
+    "name": "Hope's End",
+    "trait": "Hazardous",
+    "resources": 3,
+    "influence": 0,
+    "is_legendary": true,
+    "ability_name": "Imperial Arms Vault",
+    "ability_text": "You may exhaust this card at the end of your turn to place 1 mech from your reinforcements on any planet you control or draw 1 action card.",
+    "source": "pok"
+  },
+  {
+    "name": "Mallice",
+    "trait": "Cultural",
+    "resources": 0,
+    "influence": 3,
+    "is_legendary": true,
+    "ability_name": "Exterrix Headquarters",
+    "ability_text": "You may exhaust this card at the end of your turn to gain 2 trade goods or convert all of your commodities to trade goods.",
+    "source": "pok"
+  },
+  {
+    "name": "Mirage",
+    "trait": "Cultural",
+    "resources": 1,
+    "influence": 2,
+    "is_legendary": true,
+    "ability_name": "Mirage Flight Academy",
+    "ability_text": "You may exhaust this card at the end of your turn to place up to 2 fighters from your reinforcements in any system that contains 1 or more of your ships.",
+    "source": "pok"
+  },
+  {
+    "name": "Custodia Vigilia",
+    "trait": null,
+    "resources": 2,
+    "influence": 3,
+    "is_legendary": true,
+    "ability_name": "Keleres Base",
+    "ability_text": "While you control Mecatol Rex, it gains SPACE CANNON 5 and PRODUCTION 3. Gain 2 command tokens when another player scores VP using Imperial.",
+    "source": "pok"
+  },
+  {
+    "name": "Tempesta",
+    "trait": "Hazardous",
+    "resources": 1,
+    "influence": 1,
+    "specialty": "Blue",
+    "is_legendary": true,
+    "ability_text": "You may exhaust this card after you activate a system to apply +1 to the move value of 1 of your ships during this tactical action.",
+    "source": "te"
+  },
+  {
+    "name": "Olergodt",
+    "trait": "Cultural/Hazardous",
+    "resources": 1,
+    "influence": 2,
+    "specialty": "Yellow/Red",
+    "source": "te"
+  },
+  {
+    "name": "Andeara",
+    "trait": "Industrial",
+    "resources": 1,
+    "influence": 1,
+    "specialty": "Blue",
+    "source": "te"
+  },
+  {
+    "name": "Vira-Pics III",
+    "trait": "Cultural/Hazardous",
+    "resources": 2,
+    "influence": 3,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Lesab",
+    "trait": "Hazardous/Industrial",
+    "resources": 2,
+    "influence": 1,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "New Terra",
+    "trait": "Industrial",
+    "resources": 1,
+    "influence": 1,
+    "specialty": "Green",
+    "source": "te"
+  },
+  {
+    "name": "Tinnes",
+    "trait": "Hazardous/Industrial",
+    "resources": 2,
+    "influence": 1,
+    "specialty": "Green",
+    "source": "te"
+  },
+  {
+    "name": "Cresius",
+    "trait": "Hazardous",
+    "resources": 0,
+    "influence": 1,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Lazul Rex",
+    "trait": "Industrial/Cultural",
+    "resources": 2,
+    "influence": 2,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Tiamat",
+    "trait": "Cultural",
+    "resources": 1,
+    "influence": 2,
+    "specialty": "Yellow",
+    "source": "te"
+  },
+  {
+    "name": "Hercalor",
+    "trait": "Industrial",
+    "resources": 1,
+    "influence": 0,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Kostboth",
+    "trait": "Cultural",
+    "resources": 0,
+    "influence": 1,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Capha",
+    "trait": "Hazardous",
+    "resources": 3,
+    "influence": 0,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Tsion Station",
+    "trait": "Trade Station",
+    "resources": 1,
+    "influence": 1,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Bellatrix",
+    "trait": "Cultural",
+    "resources": 1,
+    "influence": 2,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "El'Nath",
+    "trait": "Hazardous",
+    "resources": 2,
+    "influence": 0,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Horizon",
+    "trait": "Cultural",
+    "resources": 1,
+    "influence": 2,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Luthien VI",
+    "trait": "Hazardous",
+    "resources": 3,
+    "influence": 1,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Tarana",
+    "trait": "Industrial/Cultural",
+    "resources": 1,
+    "influence": 2,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Oluz Station",
+    "trait": "Trade Station",
+    "resources": 1,
+    "influence": 1,
+    "specialty": null,
+    "source": "te"
+  },
+  {
+    "name": "Industrex",
+    "trait": "Industrial",
+    "resources": 2,
+    "influence": 0,
+    "specialty": "Red",
+    "is_legendary": true,
+    "anomaly": "Asteroid Field",
+    "ability_text": "You may exhaust this card when you pass to place 1 ship that matches a unit upgrade technology you own from your reinforcements into a system that contains your ships.",
+    "source": "pok"
+  },
+  {
+    "name": "Lemox",
+    "trait": "Industrial",
+    "resources": 0,
+    "influence": 3,
+    "anomaly": "Entropic Scar",
+    "ability_text": "Entropic Scar: All unit abilities (Sustain Damage, PRODUCTION, Planetary Shield, SPACE CANNON, BOMBARDMENT, Deploy, and ANTI-FIGHTER BARRAGE) cannot be used by or against units inside of an entropic scar. Text abilities are unaffected. Additionally, wormholes that would be placed inside of an entropic scar are discarded instead. At the start of the status phase, a player that has ships in an entropic scar can spend a token from their strategy pool to gain one of their faction-specific technologies.",
+    "source": "pok"
+  },
+  {
+    "name": "The Watchtower",
+    "trait": "Trade Station",
+    "resources": 1,
+    "influence": 1,
+    "anomaly": "Gravity Rift / Asteroid Field",
+    "source": "pok"
+  },
+  {
+    "name": "Faunus",
+    "trait": "Industrial",
+    "resources": 1,
+    "influence": 3,
+    "specialty": "Green",
+    "is_legendary": true,
+    "ability_text": "You may exhaust this card when you pass to gain control of a non-home, non-legendary planet that contains no units and has no attachments.",
+    "source": "pok"
+  },
+  {
+    "name": "Garbozia",
+    "trait": "Hazardous",
+    "resources": 2,
+    "influence": 1,
+    "is_legendary": true,
+    "ability_text": "You may exhaust this card when you pass to place 1 action card from the discard pile faceup on this card; you can purge cards on this card to play them as if they were in your hand.",
+    "source": "pok"
+  },
+  {
+    "name": "Emelpar",
+    "trait": "Cultural",
+    "resources": 0,
+    "influence": 2,
+    "is_legendary": true,
+    "ability_name": "The Acropolis",
+    "ability_text": "You may exhaust this card at the end of your turn to ready another component that isn't a strategy card.",
+    "source": "pok"
+  },
+  {
+    "name": "Styx",
+    "resources": 4,
+    "influence": 0,
+    "is_legendary": true,
+    "is_fracture": true,
+    "on_gain": "Draw a relic.",
+    "ability_name": "Song Like Marrow",
+    "ability_text": "When you gain this card, gain 1 victory point. When you lose this card, lose 1 victory point.",
+    "neutral_units": "3 infantry, 1 destroyer, 2 dreadnoughts",
+    "source": "pok"
+  },
+  {
+    "name": "Cocytus",
+    "resources": 3,
+    "influence": 0,
+    "is_fracture": true,
+    "on_gain": "Draw a relic.",
+    "neutral_units": "2 infantry, 2 cruisers",
+    "source": "pok"
+  },
+  {
+    "name": "Lethe",
+    "resources": 0,
+    "influence": 2,
+    "is_fracture": true,
+    "on_gain": "Draw a relic.",
+    "neutral_units": "1 infantry, 4 fighters, 1 carrier",
+    "source": "pok"
+  },
+  {
+    "name": "Pehelegethon",
+    "resources": 1,
+    "influence": 2,
+    "is_fracture": true,
+    "on_gain": "Draw a relic.",
+    "neutral_units": "1 infantry, 4 fighters, 1 carrier",
+    "source": "pok"
+  },
+  {
+    "name": "Avernus",
+    "trait": "Hazardous",
+    "resources": 2,
+    "influence": 0,
+    "is_legendary": true,
+    "specialty": "Muaat Breakthrough",
+    "ability_name": "The Nucleus",
+    "ability_text": "ACTION: Exhaust this card to use the Embers of Muaat's Star Forge faction ability without spending a command token.",
+    "source": "pok"
+  },
+  {
+    "name": "Thunder's Edge",
+    "resources": 5,
+    "influence": 1,
+    "is_legendary": true,
+    "placement_rule": "Placed after six expeditions (not in a system tile)",
+    "ability_name": "Jupiter Brain",
+    "ability_text": "Gain your breakthrough when you gain this card if you do not already have it. You may exhaust this card at the end of your turn to perform an action.",
+    "source": "te"
+  },
+  {
+    "name": "Mecatol Rex",
+    "trait": null,
+    "resources": 1,
+    "influence": 6,
+    "is_legendary": true,
+    "ability_name": "The Galactic Council",
+    "ability_text": "You may exhaust this card and discard 1 secret objective at the end of your turn to draw 1 secret objective.",
+    "source": "base"
+  },
+  {
+    "name": "Empty Space",
+    "quantity": 5,
+    "type": "Standard",
+    "anomaly": null,
+    "wormhole": null,
+    "source": "base"
+  },
+  {
+    "name": "Alpha Wormhole",
+    "quantity": 2,
+    "type": "Wormhole",
+    "anomaly": null,
+    "wormhole": "Alpha",
+    "source": "base"
+  },
+  {
+    "name": "Beta Wormhole",
+    "quantity": 2,
+    "type": "Wormhole",
+    "anomaly": null,
+    "wormhole": "Beta",
+    "source": "base"
+  },
+  {
+    "name": "Asteroid Field",
+    "quantity": 2,
+    "type": "Anomaly",
+    "anomaly": "Asteroid Field",
+    "wormhole": null,
+    "source": "base"
+  },
+  {
+    "name": "Gravity Rift",
+    "quantity": 1,
+    "type": "Anomaly",
+    "anomaly": "Gravity Rift",
+    "wormhole": null,
+    "source": "base"
+  },
+  {
+    "name": "Nebula",
+    "quantity": 1,
+    "type": "Anomaly",
+    "anomaly": "Nebula",
+    "wormhole": null,
+    "source": "base"
+  },
+  {
+    "name": "Supernova",
+    "quantity": 1,
+    "type": "Anomaly",
+    "anomaly": "Supernova",
+    "wormhole": null,
+    "source": "base"
+  },
+  {
+    "name": "Entropic Scar",
+    "quantity": 1,
+    "type": "Anomaly",
+    "anomaly": "Entropic Scar",
+    "wormhole": null,
+    "source": "te"
+  },
+  {
+    "name": "Beta Wormhole + Gravity Rift",
+    "quantity": 1,
+    "type": "Anomaly",
+    "anomaly": "Gravity Rift",
+    "wormhole": "Beta",
+    "source": "te"
+  }
+]

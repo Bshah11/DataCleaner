@@ -1,0 +1,158 @@
+[
+  {
+    "unit_id": "UNIT_WAR_SUN",
+    "name": "War Sun",
+    "base_stats": {
+      "cost": 12,
+      "combat": 3,
+      "num_of_attacks": 3,
+      "move": 2,
+      "capacity": 6,
+      "abilities": ["SUSTAIN DAMAGE", "BOMBARDMENT 3x3"]
+    },
+    "upgrade": {
+      "tech_id": "TECH_UPGRADE_WAR_SUN",
+      "name": "War Sun II",
+      "prerequisites": ["Red", "Red", "Red", "Yellow"],
+      "text": "Other players' units in this system lose Planetary Shield."
+    }
+  },
+  {
+    "unit_id": "UNIT_DREADNOUGHT",
+    "name": "Dreadnought",
+    "base_stats": {
+      "cost": 4,
+      "combat": 5,
+      "num_of_attacks": 1,
+      "move": 1,
+      "capacity": 1,
+      "abilities": ["SUSTAIN DAMAGE", "BOMBARDMENT 5"]
+    },
+    "upgrade": {
+      "tech_id": "TECH_UPGRADE_DREADNOUGHT_II",
+      "name": "Dreadnought II",
+      "prerequisites": ["Blue", "Blue", "Yellow"],
+      "stats": { "move": 2 },
+      "text": "This unit cannot be destroyed by 'Direct Hit' action cards."
+    }
+  },
+  {
+    "unit_id": "UNIT_CARRIER",
+    "name": "Carrier",
+    "base_stats": {
+      "cost": 3,
+      "combat": 9,
+      "num_of_attacks": 1,
+      "move": 1,
+      "capacity": 4
+    },
+    "upgrade": {
+      "tech_id": "TECH_UPGRADE_CARRIER_II",
+      "name": "Carrier II",
+      "prerequisites": ["Blue", "Blue"],
+      "stats": { "move": 2, "capacity": 6 }
+    }
+  },
+  {
+    "unit_id": "UNIT_CRUISER",
+    "name": "Cruiser",
+    "base_stats": {
+      "cost": 2,
+      "combat": 7,
+      "num_of_attacks": 1,
+      "move": 2,
+      "capacity": 0
+    },
+    "upgrade": {
+      "tech_id": "TECH_UPGRADE_CRUISER_II",
+      "name": "Cruiser II",
+      "prerequisites": ["Green", "Yellow", "Red"],
+      "stats": { "combat": 6, "move": 3, "capacity": 1 }
+    }
+  },
+  {
+    "unit_id": "UNIT_DESTROYER",
+    "name": "Destroyer",
+    "base_stats": {
+      "cost": 1,
+      "combat": 9,
+      "num_of_attacks": 1,
+      "move": 2,
+      "abilities": ["ANTI-FIGHTER BARRAGE 9x2"]
+    },
+    "upgrade": {
+      "tech_id": "TECH_UPGRADE_DESTROYER_II",
+      "name": "Destroyer II",
+      "prerequisites": ["Red", "Red"],
+      "stats": { "combat": 8 },
+      "text": "ANTI-FIGHTER BARRAGE 6x3"
+    }
+  },
+  {
+    "unit_id": "UNIT_FIGHTER",
+    "name": "Fighter",
+    "base_stats": {
+      "cost": 0.5,
+      "combat": 9,
+      "num_of_attacks": 1,
+      "move": 0
+    },
+    "upgrade": {
+      "tech_id": "TECH_UPGRADE_FIGHTER_II",
+      "name": "Fighter II",
+      "prerequisites": ["Green", "Blue"],
+      "stats": { "combat": 8, "move": 2 },
+      "text": "This unit may move without being transported. Fighters in excess of capacity count against fleet pool."
+    }
+  },
+  {
+    "unit_id": "UNIT_INFANTRY",
+    "name": "Infantry",
+    "base_stats": {
+      "cost": 0.5,
+      "combat": 8,
+      "num_of_attacks": 1
+    },
+    "upgrade": {
+      "tech_id": "TECH_UPGRADE_INFANTRY_II",
+      "name": "Infantry II",
+      "prerequisites": ["Green", "Green"],
+      "stats": { "combat": 7 },
+      "text": "Gen Synthesis: After destruction, roll 6+ to return to home system start of next turn."
+    }
+  },
+  {
+    "unit_id": "UNIT_PDS",
+    "name": "PDS",
+    "base_stats": {
+      "cost": 0,
+      "combat": 6,
+      "num_of_attacks": 1,
+      "abilities": ["PLANETARY SHIELD", "SPACE CANNON 6"]
+    },
+    "upgrade": {
+      "tech_id": "TECH_UPGRADE_PDS_II",
+      "name": "PDS II",
+      "prerequisites": ["Red", "Yellow"],
+      "stats": { "combat": 5 },
+      "text": "Deep SPACE CANNON: May fire against ships in adjacent systems."
+    }
+  },
+  {
+    "unit_id": "UNIT_SPACE_DOCK",
+    "name": "Space Dock",
+    "base_stats": {
+      "cost": 0,
+      "production_bonus": 2,
+      "fighter_capacity_bonus": 3,
+      "text": "PRODUCTION: Planet + 2. Up to 3 fighters do not count against capacity."
+    },
+    "upgrade": {
+      "tech_id": "TECH_UPGRADE_SPACE_DOCK_II",
+      "name": "Space Dock II",
+      "prerequisites": ["Yellow", "Yellow"],
+      "stats": { "production_bonus": 4 },
+      "text": "Enviro Compensator: PRODUCTION: Planet + 4."
+    }
+  }
+]

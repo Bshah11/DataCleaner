@@ -1,0 +1,15 @@
+# LRR CLARIFICATION: Last Bastion
+## TYPE: Hero
+### COMPONENT: Lura Keen — Entity 4X41A “Apollo”
+#### ID: last_bastion_lura_keen_entity_4x41a_apollo
+
+1. Any combat roll modifiers will not apply to the dice roll forEntity 4X41A “Apollo”.
+2. Units can only be destroyed by the dice specifically allocated to it.
+3. Effects that cancel hits, such asSustain Damage, cannot be used to prevent units from being destroyed.
+4. All units belonging to other players in the system may be destroyed, including structures.
+5. IfEntity 4X41A “Apollo”is resolved during combat, units that belong to another player other than the Bastion player’s opponent could be destroyed.
+6. IfEntity 4X41A “Apollo”is resolved during a space combat, ground forces on planets or being transported in that system could be destroyed.
+7. IfEntity 4X41A “Apollo”is resolved during a ground combat, ground forces on other planets or units in the space area of that system could be destroyed.
+8. During combat, both players assign hits simultaneously. If the Bastion player wishes to useEntity 4X41A “Apollo”after destroying one of their units by assigning a hit to it, their opponent would first finish assigning the hits produced by the Bastion player. Only then could the Bastion player resolveEntity 4X41A “Apollo”, rolling for just their opponent’s units that were not destroyed by the assigned hits.
+9. Before assigning hits, players may cancel the produced hits by using theSustain Damageability of their units in the combat, one at a time, starting with the active player (intermixed with any other abilities either player wishes to resolve during the same window). Should any of the Bastion player’s units be destroyed by aDirect Hitaction card, then they can immediately triggerEntity 4X41A “Apollo”. They will roll dice for all of their opponent’s remaining units in the system, which may include some units that their opponent would have otherwise gone on to cancel a hit with by using itsSustain Damageability. OnceEntity 4X41A “Apollo”has finished resolving, both players must assign any remaining hits; they may cancel some number of these by using theSustain Damageability of any surviving units in the combat.
+10. During theSpace Cannon Offensestep of a tactical action, players resolve theSpace Cannonability of their eligible units starting with the active player, and going around the table in a clockwise order. Each player will make their space cannon roll and have the hits assigned, likely destroying some units, before the next player begins their own space cannon roll. Should the Bastion player have one of their units destroyed by another player’s space cannon roll, and choose to use the ability ofEntity 4X41A “Apollo”, then in doing so they destroy a unit with theSpace Cannonability, that unit will not perform a space cannon roll if the player that owns that unit has not yet made their space cannon roll.

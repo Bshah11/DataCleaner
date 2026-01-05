@@ -1,0 +1,22 @@
+# Warfare (Strategy Card)
+## Specific rule - [The Warfare strategy card allows a player to remove a command token from the board and redistribute their command tokens between their tactic, fleet, and strategy pools. This card’s initiative value is “6”. During the action phase, if the active player has the Warfare strategy card, they can perform a strategic action to resolve that card’s primary ability.]
+### Rule points
+1. Step 1 : The active player removes any one of their command tokens from the game board. Then, that player gains that command token by placing it in a pool of their choice on their command sheet.
+2. Step 2 : The active player can redistribute their command tokens.
+3. After the active player resolves the primary ability of the Warfare strategy card, each other player, beginning with the player to the left of the active player and proceeding clockwise, may spend one command token from their strategy pool to resolve the Production ability of one space dock in their home system.
+
+    1. The command token is not placed in their home system.
+
+### Notes
+- If the player with Warfare has no command tokens on the game board, they may still perform a strategic action. However, they will not gain a command token.
+
+### related topic
+- Action Phase
+- Command Sheet
+- Command Tokens
+- Initiative Order
+- Producing Units
+- Production
+- Space Dock
+- Strategic Action
+- Strategy Card

@@ -1,0 +1,9 @@
+# Relics: Stellar Converter
+
+* **Card Id**: RELIC_STELLAR_CONVERTER
+* **Type**: Relic
+* **Quantity**: 1
+* **Timing**: ACTION
+* **Text**: ACTION: Choose 1 non-home, non-legendary planet other than Mecatol Rex in a system that is adjacent to 1 or more of your units that have BOMBARDMENT; destroy all units on that planet and purge its attachments and its planet card. Then, place the destroyed planet token on that planet and purge this card.
+
+---

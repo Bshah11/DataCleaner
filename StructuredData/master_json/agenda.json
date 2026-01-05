@@ -1,0 +1,632 @@
+[
+  {
+    "card_id": "AGENDA_ARCHIVED_SECRET",
+    "name": "Archived Secret",
+    "type": "Directive",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player draws 1 secret objective.",
+    "effect_fail": null,
+    "metadata": {
+      "clarifications": ["Regular Secret Objective rules apply (3 total)."]
+    }
+  },
+  {
+    "card_id": "AGENDA_ARMS_REDUCTION",
+    "name": "Arms Reduction",
+    "type": "Directive",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Each player destroys all but 2 of his dreadnoughts and all but 4 of his cruisers.",
+    "effect_fail": "At the start of the next strategy phase, each player exhausts each of his planets that have a technology specialty.",
+    "metadata": {
+      "clarifications": ["Regular Fleet Capacity rules apply."]
+    }
+  },
+  {
+    "card_id": "AGENDA_COLONIAL_REDISTRIBUTION",
+    "name": "Colonial Redistribution",
+    "type": "Directive",
+    "target": "Non-Home Planet Other Than Mecatol Rex",
+    "source": "base",
+    "effect_pass": "Destroy each unit on the elected planet. Then, the player who controls that planet chooses 1 player with the fewest victory points; that player may place 1 infantry from his reinforcements on the elected planet.",
+    "effect_fail": null,
+    "metadata": {
+      "clarifications": [
+        "Taking the planet is optional for the player with fewest victory points.",
+        "Can choose the target of 'Demilitarized Zone' agenda; cannot place an infantry on that planet."
+      ]
+    }
+  },
+  {
+    "card_id": "AGENDA_COMPENSATED_DISARMAMENT",
+    "name": "Compensated Disarmament",
+    "type": "Directive",
+    "target": "Planet",
+    "source": "base",
+    "effect_pass": "Destroy each ground force on the elected planet; for each unit that was destroyed, the player who control that planet gains 1 trade good.",
+    "effect_fail": null,
+    "metadata": {
+      "clarifications": ["Infantry II (Gen Synthesis) units roll for survival."]
+    }
+  },
+  {
+    "card_id": "AGENDA_ECONOMIC_EQUALITY",
+    "name": "Economic Equality",
+    "type": "Directive",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Each player returns all of his trade goods to the supply. Then, each player gains 5 trade goods.",
+    "effect_fail": "Each player returns all of his trade goods to the supply.",
+    "metadata": {
+      "clarifications": [
+        "Happens before riders.",
+        "Trade rider comes into effect after the agenda resolves."
+      ]
+    }
+  },
+  {
+    "card_id": "AGENDA_INCENTIVE_PROGRAM",
+    "name": "Incentive Program",
+    "type": "Directive",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Draw and reveal 1 stage I public objective from the deck and place it near the public objectives.",
+    "effect_fail": "Draw and reveal 1 stage II public objective from the deck and place it near the public objectives.",
+    "metadata": {
+      "clarifications": []
+    }
+  },
+  {
+    "card_id": "AGENDA_IXTHIAN_ARTIFACT",
+    "name": "Ixthian Artifact",
+    "type": "Directive",
+    "target": null,
+    "source": "base",
+    "effect_pass": "The speaker rolls 1 die. If the result is 6-10, each player may research 2 technologies. If the result is 1-5, destroy all units in Mecatol Rex's system, and each player with units in systems adjacent to Mecatol Rex's system destroys 3 of his units in each of those systems.",
+    "effect_fail": null,
+    "metadata": {
+      "clarifications": ["Follows normal research rules."]
+    }
+  },
+  {
+    "card_id": "AGENDA_JUDICIAL_ABOLISHMENT",
+    "name": "Judicial Abolishment",
+    "type": "Directive",
+    "target": "Law",
+    "source": "base",
+    "effect_pass": "Discard the elected law from play.",
+    "effect_fail": null,
+    "metadata": {
+      "reveal_condition": "When this agenda is revealed, if there are no laws in play, discard this card and reveal another agenda from the top of the deck.",
+      "clarifications": ["Has the same interaction as 'Repeal Law'."]
+    }
+  },
+  {
+    "card_id": "AGENDA_MISCOUNT_DISCLOSED",
+    "name": "Miscount Disclosed",
+    "type": "Directive",
+    "target": "Law",
+    "source": "base",
+    "effect_pass": "Vote on the elected law as if it were just revealed from the top of the deck.",
+    "effect_fail": null,
+    "metadata": {
+      "reveal_condition": "When this agenda is revealed, if there are no laws in play, discard this card and reveal another agenda from the top of the deck.",
+      "clarifications": ["Awaiting clarification whether the law is repealed or just outcome changed."]
+    }
+  },
+  {
+    "card_id": "AGENDA_MUTINY",
+    "name": "Mutiny",
+    "type": "Directive",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Each player that voted 'For' gains 1 victory point.",
+    "effect_fail": "Each player that voted 'For' loses 1 victory point.",
+    "metadata": {
+      "clarifications": []
+    }
+  },
+  {
+    "card_id": "AGENDA_NEW_CONSTITUTION",
+    "name": "New Constitution",
+    "type": "Directive",
+    "target": "Law",
+    "source": "base",
+    "effect_pass": "Discard all laws from play. At the start of the next strategy phase, each player exhausts each planet in his home system.",
+    "effect_fail": null,
+    "metadata": {
+      "reveal_condition": "When this agenda is revealed, if there are no laws in play, discard this card and reveal another agenda from the top of the deck.",
+      "clarifications": ["Has the same interaction as 'Repeal Law'."]
+    }
+  },
+  {
+    "card_id": "AGENDA_PUBLIC_EXECUTION",
+    "name": "Public Execution",
+    "type": "Directive",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player discards all of his action cards. If he has the speaker token, he gives it to the player on his left. The elected player cannot vote on any agendas during this agenda phase.",
+    "effect_fail": null,
+    "metadata": {
+      "clarifications": []
+    }
+  },
+  {
+    "card_id": "AGENDA_SEED_OF_AN_EMPIRE",
+    "name": "Seed of an Empire",
+    "type": "Directive",
+    "target": null,
+    "source": "base",
+    "effect_pass": "The player with the most victory points gains 1 victory point.",
+    "effect_fail": "The player with the fewest victory points gains 1 victory point.",
+    "metadata": {
+      "clarifications": ["In case of a tie, all eligible players gain the VP."]
+    }
+  },
+  {
+    "card_id": "AGENDA_SWORDS_TO_PLOWSHARES",
+    "name": "Swords to Plowshares",
+    "type": "Directive",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Each player destroys half of his infantry on each planet he controls, rounded up. Then, each player gains trade goods equal to the number of his infantry that were destroyed.",
+    "effect_fail": "Each player places 1 infantry from his reinforcements on each planet he controls.",
+    "metadata": {
+      "clarifications": ["Infantry II (Gen Synthesis) units roll for survival."]
+    }
+  },
+  {
+    "card_id": "AGENDA_UNCONVENTIONAL_MEASURES",
+    "name": "Unconventional Measures",
+    "type": "Directive",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Each player that voted 'For' draws 2 action cards.",
+    "effect_fail": "Each player that voted 'For' discards all of his action cards.",
+    "metadata": {
+      "clarifications": ["Regular hand size limit applies."]
+    }
+  },
+  {
+    "card_id": "AGENDA_WORMHOLE_RESEARCH",
+    "name": "Wormhole Research",
+    "type": "Directive",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Each player who has 1 or more ships in a system that contains a wormhole may research 1 technology. Then, destroy all ships in systems that contain an alpha or beta wormhole.",
+    "effect_fail": "Each player that voted 'Against' removes 1 command token from his command sheet and returns it to his reinforcements.",
+    "metadata": {
+      "clarifications": [
+        "One technology regardless if one player has ships in more than 1 system that contains a wormhole.",
+        "Ghost of Creuss Delta Wormhole applies for the technology research window.",
+        "Ghost of Creuss Delta Wormhole does not require players to destroy ships."
+      ]
+    }
+  },
+  {
+    "card_id": "AGENDA_ANTI_INTELLECTUAL_REVOLUTION",
+    "name": "Anti-Intellectual Revolution",
+    "type": "Law",
+    "target": null,
+    "source": "base",
+    "effect_pass": "After a player researches a technology, he must destroy 1 of his non-fighter ships.",
+    "effect_fail": "At the start of the next strategy phase, each player chooses and exhausts 1 planet for each technology he owns.",
+    "metadata": {
+      "repeal_interaction": "Players no longer need to destroy a non-fighter ship when researching technologies.",
+      "clarifications": [
+        "Does affect: Researching technologies in any phase.",
+        "Does NOT affect: Gaining technologies."
+      ]
+    }
+  },
+  {
+    "card_id": "AGENDA_CLASSIFIED_DOCUMENT_LEAKS",
+    "name": "Classified Document Leaks",
+    "type": "Law",
+    "target": "Scored Secret Objective",
+    "source": "base",
+    "effect_pass": "The elected secret objective becomes a public objective; place it near the other public objectives in the common play area.",
+    "effect_fail": null,
+    "metadata": {
+      "reveal_condition": "When this agenda is revealed, if there are no scored secret objectives, discard this card and reveal another agenda from the top of the deck.",
+      "repeal_interaction": "Complex interactions with scored/unscored SO limits for the original owner.",
+      "clarifications": ["The chosen SO no longer counts towards the regular limit of 3 SOs for the player who originally scored it."]
+    }
+  },
+  {
+    "card_id": "AGENDA_COMMITTEE_FORMATION",
+    "name": "Committee Formation",
+    "type": "Law",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player gains this card. Before players vote on an agenda that requires a player to be elected, the owner of this card may discard this card to choose a player to be elected. Players do not vote on that agenda.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player can no longer use the law."
+    }
+  },
+  {
+    "card_id": "AGENDA_CONVENTIONS_OF_WAR",
+    "name": "Conventions of War",
+    "type": "Law",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Players cannot use BOMBARDMENT against units that are on cultural planets.",
+    "effect_fail": "Each player that voted 'Against' discards all of his action cards.",
+    "metadata": {
+      "repeal_interaction": "Players can use BOMBARDMENT against units on cultural planets."
+    }
+  },
+  {
+    "card_id": "AGENDA_ENFORCED_TRAVEL_BAN",
+    "name": "Enforced Travel Ban",
+    "type": "Law",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Alpha and beta wormholes have no effect during movement.",
+    "effect_fail": "Destroy each PDS in or adjacent to a system that contains a wormhole.",
+    "metadata": {
+      "repeal_interaction": "Alpha and Beta wormholes have an effect during movement.",
+      "clarifications": ["Ghost of Creuss are not affected by the restriction."]
+    }
+  },
+  {
+    "card_id": "AGENDA_EXECUTIVE_SANCTIONS",
+    "name": "Executive Sanctions",
+    "type": "Law",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Each player can have a maximum of 3 action cards in his hand.",
+    "effect_fail": "Each player discards 1 random action card from his hand.",
+    "metadata": {
+      "repeal_interaction": "Each player follows the regular hand-size limit.",
+      "clarifications": ["The Yssaril Tribes are not affected by the limitation."]
+    }
+  },
+  {
+    "card_id": "AGENDA_FLEET_REGULATIONS",
+    "name": "Fleet Regulations",
+    "type": "Law",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Each player cannot have more than 4 tokens in his fleet pool.",
+    "effect_fail": "Each player places 1 command token from his reinforcements in his fleet pool.",
+    "metadata": {
+      "repeal_interaction": "Each player can have as many tokens in his fleet pool as they have on their command sheet."
+    }
+  },
+  {
+    "card_id": "AGENDA_HOMELAND_DEFENSE_ACT",
+    "name": "Homeland Defense Act",
+    "type": "Law",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Each player can have any number of PDS units on planets he controls.",
+    "effect_fail": "Each player destroys 1 of his PDS units.",
+    "metadata": {
+      "repeal_interaction": "Destroy down to 2 PDS on each planet."
+    }
+  },
+  {
+    "card_id": "AGENDA_IMPERIAL_ARBITER",
+    "name": "Imperial Arbiter",
+    "type": "Law",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player gains this card. At the end of the strategy phase, the owner of this card may discard this card to swap 1 of his strategy cards with 1 of another player's strategy cards.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player can no longer use the card.",
+      "clarifications": [
+        "Any TGs on the SC remain with the player that picked the SC first.",
+        "Response happens in clock-wise order from owner - relevant for Hacan with Quantum Datahub Node."
+      ]
+    }
+  },
+  {
+    "card_id": "AGENDA_MINISTER_OF_COMMERCE",
+    "name": "Minister of Commerce",
+    "type": "Law",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player gains this card. After the owner of this card replenishes commodities, he gains 1 trade good for each player that is his neighbor.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player no longer receives TGs when replenishing commodities."
+    }
+  },
+  {
+    "card_id": "AGENDA_MINISTER_OF_EXPLORATION",
+    "name": "Minister of Exploration",
+    "type": "Law",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player gains this card. When the owner of this card gains control of a planet, he gains 1 trade good.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player no longer gains TGs when gaining control of a planet."
+    }
+  },
+  {
+    "card_id": "AGENDA_MINISTER_OF_INDUSTRY",
+    "name": "Minister of Industry",
+    "type": "Law",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player gains this card. When the owner of this card places a space dock in a system, his units in that system may use their PRODUCTION abilities.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player's units can no longer use PRODUCTION abilities when placing a space dock.",
+      "clarifications": [
+        "Can use the PRODUCTION ability of ALL units in the system.",
+        "Cannot be used together with effects that 'replace' units."
+      ]
+    }
+  },
+  {
+    "card_id": "AGENDA_MINISTER_OF_PEACE",
+    "name": "Minister of Peace",
+    "type": "Law",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player gains this card. After a player activates a system that contains 1 or more of a different player's units, the owner of this card may discard this card; immediately end the active player's turn.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player can no longer use the law."
+    }
+  },
+  {
+    "card_id": "AGENDA_MINISTER_OF_POLICY",
+    "name": "Minister of Policy",
+    "type": "Law",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player gains this card. At the end of the status phase, the owner of this card draws 1 action card.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player no longer draws 1 card at end of Status Phase.",
+      "clarifications": ["Yssaril Tribes: This is a separate instance of drawing cards."]
+    }
+  },
+  {
+    "card_id": "AGENDA_MINISTER_OF_SCIENCES",
+    "name": "Minister of Sciences",
+    "type": "Law",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player gains this card. When the owner of this card resolves the primary or secondary ability of the 'Technology' strategy card, he does not need to spend resources to research technology.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player needs to spend resources when resolving the 'Technology' strategy card.",
+      "clarifications": ["Other research rules (prerequisites, etc.) still apply."]
+    }
+  },
+  {
+    "card_id": "AGENDA_MINISTER_OF_WAR",
+    "name": "Minister of War",
+    "type": "Law",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player gains this card. The owner of this card may discard this card after performing an action to remove 1 of his command counters from the game board and return it to his reinforcements; then he may perform 1 additional action.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player can no longer use the law.",
+      "clarifications": ["Effectively functions as an 'Unexpected Action' combined with 'Fleet Logistics'."]
+    }
+  },
+  {
+    "card_id": "AGENDA_PROPHECY_OF_IXTH",
+    "name": "Prophecy of Ixth",
+    "type": "Law",
+    "target": "Player",
+    "source": "base",
+    "effect_pass": "The elected player gains this card. The owner of this card applies +1 to the result of his fighter's combat rolls. When the owner of this card uses PRODUCTION, he discards this card unless he produces 2 or more fighters.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Fighters no longer get +1 to combat rolls.",
+      "clarifications": ["2 fighters need to be produced for EVERY unit that uses 'PRODUCTION' in the system, including Letani Warriors."]
+    }
+  },
+  {
+    "card_id": "AGENDA_PUBLICIZE_WEAPON_SCHEMATICS",
+    "name": "Publicize Weapon Schematics",
+    "type": "Law",
+    "target": null,
+    "source": "base",
+    "effect_pass": "If any player owns a war sun technology, all players may ignore all prerequisites on war sun technologies. All war suns lose Sustain Damage.",
+    "effect_fail": "Each player that owns a war sun technology discards all of his action cards.",
+    "metadata": {
+      "repeal_interaction": "Players no longer ignore War Sun prerequisites. War Suns regain Sustain Damage.",
+      "clarifications": [
+        "Technology still needs to be researched to build War Suns.",
+        "Muaat's Prototype War Sun I does NOT count as a WS technology for the 'fail' condition; PWS II does."
+      ]
+    }
+  },
+  {
+    "card_id": "AGENDA_REGULATED_CONSCRIPTION",
+    "name": "Regulated Conscription",
+    "type": "Law",
+    "target": null,
+    "source": "base",
+    "effect_pass": "When a player produces units, he produces only 1 fighter and infantry for its cost instead of 2.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Standard production (2 units for 1 resource) resumes."
+    }
+  },
+  {
+    "card_id": "AGENDA_SHARED_RESEARCH",
+    "name": "Shared Research",
+    "type": "Law",
+    "target": null,
+    "source": "base",
+    "effect_pass": "Each player's units can move through nebulae.",
+    "effect_fail": "Each player places a command token from his reinforcements in his home system, if able.",
+    "metadata": {
+      "repeal_interaction": "Units follow regular nebulae movement rules.",
+      "clarifications": ["If a player has no tokens in reinforcements, they do not place one from elsewhere."]
+    }
+  },
+  {
+    "card_id": "AGENDA_WORMHOLE_RECONSTRUCTION",
+    "name": "Wormhole Reconstruction",
+    "type": "Law",
+    "target": null,
+    "source": "base",
+    "effect_pass": "All systems that contain either an alpha or beta wormhole are adjacent to each other.",
+    "effect_fail": "Each player places a command token from his reinforcements in each system that contains a wormhole and 1 or more of his ships.",
+    "metadata": {
+      "repeal_interaction": "Alpha and Beta wormholes are no longer mutually adjacent.",
+      "clarifications": ["Standard adjacency rules (Alpha-to-Alpha and Beta-to-Beta) resume."]
+    }
+  },
+  {
+    "card_id": "AGENDA_ARMED_FORCES_STANDARDIZATION",
+    "name": "Armed Forces Standardization",
+    "type": "Directive",
+    "target": "Player",
+    "source": "pok",
+    "effect_pass": "The elected player place command tokens from their reinforcements so that they have 3 tokens in their tactic pool, 3 tokens in their fleet pool, and 2 tokens in their strategy pool. They return any excess tokens to their reinforcements.",
+    "effect_fail": null,
+    "metadata": { "clarifications": [] }
+  },
+  {
+    "card_id": "AGENDA_ARTICLES_OF_WAR",
+    "name": "Articles of War",
+    "type": "Law",
+    "target": null,
+    "source": "pok",
+    "effect_pass": "All mechs lose their printed abilities except for Sustain Damage.",
+    "effect_fail": "Each player that voted 'For' gets 3 trade goods.",
+    "metadata": {
+      "repeal_interaction": "Mechs regain their printed abilities.",
+      "clarifications": ["Mechs still count as mechs for unit requirements."]
+    }
+  },
+  {
+    "card_id": "AGENDA_CHECKS_AND_BALANCES",
+    "name": "Checks and Balances",
+    "type": "Law",
+    "target": null,
+    "source": "pok",
+    "effect_pass": "When a player chooses a strategy card during the strategy phase, they give that strategy card to another player who does not have 1 (or a player who does not have 2 in a 3 or 4-player game), if able.",
+    "effect_fail": "Each player readies only 3 of their planets at the end of this agenda phase.",
+    "metadata": { "repeal_interaction": "Standard strategy card drafting resumes." }
+  },
+  {
+    "card_id": "AGENDA_CLANDESTINE_OPERATIONS",
+    "name": "Clandestine Operations",
+    "type": "Directive",
+    "target": null,
+    "source": "pok",
+    "effect_pass": "Each player removes 2 command tokens from their command sheet and return those tokens to their reinforcements.",
+    "effect_fail": "Each player removes 1 command token from their fleet pool and returns that token to their reinforcements.",
+    "metadata": { "clarifications": [] }
+  },
+  {
+    "card_id": "AGENDA_COVERT_LEGISLATION",
+    "name": "Covert Legislation",
+    "type": "Directive",
+    "target": null,
+    "source": "pok",
+    "effect_pass": "The speaker draws the next card in the agenda deck but does not reveal it. The speaker reads eligible outcomes aloud; other players vote without knowing the effects.",
+    "effect_fail": null,
+    "metadata": {
+      "clarifications": ["The actual effect of the second agenda is resolved after voting is complete."]
+    }
+  },
+  {
+    "card_id": "AGENDA_GALACTIC_CRISIS_PACT",
+    "name": "Galactic Crisis Pact",
+    "type": "Directive",
+    "target": "Strategy Card",
+    "source": "pok",
+    "effect_pass": "Each player may perform the secondary ability of the elected strategy card without spending a command token; command tokens placed by the ability are placed from reinforcements.",
+    "effect_fail": null,
+    "metadata": { "clarifications": [] }
+  },
+  {
+    "card_id": "AGENDA_MINISTER_OF_ANTIQUITIES",
+    "name": "Minister of Antiquities",
+    "type": "Directive",
+    "target": "Player",
+    "source": "pok",
+    "effect_pass": "The elected player gains 1 relic.",
+    "effect_fail": null,
+    "metadata": { "clarifications": ["Relic is drawn from the top of the relic deck."] }
+  },
+  {
+    "card_id": "AGENDA_NEXUS_SOVEREIGNTY",
+    "name": "Nexus Sovereignty",
+    "type": "Law",
+    "target": null,
+    "source": "pok",
+    "effect_pass": "Alpha and beta wormholes in the wormhole nexus have no effect during movement.",
+    "effect_fail": "Place a gamma wormhole token in the Mecatol Rex system.",
+    "metadata": {
+      "repeal_interaction": "Wormholes in the Nexus regain movement effects.",
+      "clarifications": ["If the fail effect resolves, the Gamma wormhole remains even if this law is not in play (since it was an immediate effect)."]
+    }
+  },
+  {
+    "card_id": "AGENDA_POLITICAL_CENSURE",
+    "name": "Political Censure",
+    "type": "Law",
+    "target": "Player",
+    "source": "pok",
+    "effect_pass": "The elected player gains this card and 1 victory point. The elected player cannot play action cards.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player loses 1 victory point and regains the ability to play action cards.",
+      "clarifications": ["If the owner loses this card, they lose 1 victory point immediately."]
+    }
+  },
+  {
+    "card_id": "AGENDA_REARMAMENT_AGREEMENT",
+    "name": "Rearmament Agreement",
+    "type": "Directive",
+    "target": null,
+    "source": "pok",
+    "effect_pass": "Each player places 1 mech from their reinforcements on a planet they control in their home system.",
+    "effect_fail": "Each player replaces each of their mechs with 1 infantry from their reinforcements.",
+    "metadata": { "clarifications": ["If a player has no mechs in reinforcements for the pass effect, they place nothing."] }
+  },
+  {
+    "card_id": "AGENDA_REPRESENTATIVE_GOVERNMENT",
+    "name": "Representative Government",
+    "type": "Law",
+    "target": null,
+    "source": "pok",
+    "effect_pass": "Players cannot exhaust planets to cast votes; each player may cast 1 vote on each agenda instead. Players cannot cast additional votes.",
+    "effect_fail": "At the start of the next strategy phase, each player that voted 'Against' exhausts all of their cultural planets.",
+    "metadata": {
+      "repeal_interaction": "Standard voting rules (spending influence) resume.",
+      "clarifications": ["This overrides abilities that grant extra votes (like 'Distinguished Councilor')."]
+    }
+  },
+  {
+    "card_id": "AGENDA_RESEARCH_GRANT_REALLOCATION",
+    "name": "Research Grant Reallocation",
+    "type": "Directive",
+    "target": "Player",
+    "source": "pok",
+    "effect_pass": "The elected player gains any 1 technology. For each prerequisite on that technology, they remove 1 token from their fleet pool and return it to reinforcements.",
+    "effect_fail": null,
+    "metadata": { "clarifications": ["Prerequisites are not required to gain the tech, but they determine the cost in fleet tokens."] }
+  },
+  {
+    "card_id": "AGENDA_SEARCH_WARRANT",
+    "name": "Search Warrant",
+    "type": "Law",
+    "target": "Player",
+    "source": "pok",
+    "effect_pass": "The elected player gains this card and draws 2 secret objectives. The owner plays with their secret objectives revealed.",
+    "effect_fail": null,
+    "metadata": {
+      "repeal_interaction": "Player keeps the secret objectives but may return them to their hand (hidden).",
+      "clarifications": ["Revealed secret objectives can still be scored normally."]
+    }
+  }
+]

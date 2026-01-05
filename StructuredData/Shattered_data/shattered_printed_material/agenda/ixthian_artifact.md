@@ -1,0 +1,10 @@
+# Agenda: Ixthian Artifact
+
+* **Card Id**: AGENDA_IXTHIAN_ARTIFACT
+* **Type**: Directive
+* **Source**: base
+* **Effect Pass**: The speaker rolls 1 die. If the result is 6-10, each player may research 2 technologies. If the result is 1-5, destroy all units in Mecatol Rex's system, and each player with units in systems adjacent to Mecatol Rex's system destroys 3 of his units in each of those systems.
+## Metadata
+* **Clarifications**: ['Follows normal research rules.']
+
+---

@@ -1,0 +1,100 @@
+[
+  {
+    "card_id": "STRAT_LEADERSHIP",
+    "name": "Leadership",
+    "initiative": 1,
+    "primary": {
+      "gain_tokens": "Gain 3 command tokens.",
+      "influence_conversion": "Spend any amount of influence to gain 1 command token for every 3 influence spent."
+    },
+    "secondary": {
+      "influence_conversion": "Spend any amount of influence to gain 1 command token for every 3 influence spent."
+    }
+  },
+  {
+    "card_id": "STRAT_DIPLOMACY",
+    "name": "Diplomacy",
+    "initiative": 2,
+    "primary": {
+      "peace_treaty": "Choose 1 system other than Mecatol Rex that contains a planet you control; each other player places a command token from reinforcements in that system.",
+      "ready_planets": "Ready up to two exhausted planets you control."
+    },
+    "secondary": {
+      "ready_planets": "Spend 1 token from your strategy pool to ready up to 2 exhausted planets you control."
+    }
+  },
+  {
+    "card_id": "STRAT_POLITICS",
+    "name": "Politics",
+    "initiative": 3,
+    "primary": {
+      "speaker_token": "Choose a player other than the speaker. That player gains the speaker token.",
+      "draw_action_cards": "Draw 2 action cards.",
+      "agenda_manipulation": "Look at the top 2 cards of the agenda deck. Place each card on the top or bottom of the deck in any order."
+    },
+    "secondary": {
+      "draw_action_cards": "Spend 1 token from your strategy pool to draw 2 action cards."
+    }
+  },
+  {
+    "card_id": "STRAT_CONSTRUCTION",
+    "name": "Construction II",
+    "initiative": 4,
+    "primary": {
+      "place_structure": "Either place 1 structure on a planet you control, or use the PRODUCTION ability of 1 of your space docks.",
+      "bonus_structure": "Place 1 structure on a planet you control."
+    },
+    "secondary": {
+      "place_structure": "Spend 1 token from your strategy pool to place 1 structure on a planet you control."
+    }
+  },
+  {
+    "card_id": "STRAT_TRADE",
+    "name": "Trade",
+    "initiative": 5,
+    "primary": {
+      "gain_goods": "Gain 3 trade goods.",
+      "replenish": "Replenish commodities.",
+      "negotiation": "Choose any number of other players. Those players use the secondary ability of this strategy card without spending a command token."
+    },
+    "secondary": {
+      "replenish": "Spend 1 token from your strategy pool to replenish commodities."
+    }
+  },
+  {
+    "card_id": "STRAT_WARFARE",
+    "name": "Warfare II",
+    "initiative": 6,
+    "primary": {
+      "free_tactical_action": "Perform a tactical action in any system without placing a command token, even if already activated.",
+      "redistribution": "You may redistribute your command tokens before and after this action."
+    },
+    "secondary": {
+      "home_production": "Spend 1 token from your strategy pool to use the PRODUCTION abilities of the units in your home system."
+    }
+  },
+  {
+    "card_id": "STRAT_TECHNOLOGY",
+    "name": "Technology",
+    "initiative": 7,
+    "primary": {
+      "free_research": "Research 1 technology.",
+      "paid_research": "Spend 6 resources to research 1 technology."
+    },
+    "secondary": {
+      "paid_research": "Spend 1 token from your strategy pool and 4 resources to research 1 technology."
+    }
+  },
+  {
+    "card_id": "STRAT_IMPERIAL",
+    "name": "Imperial",
+    "initiative": 8,
+    "primary": {
+      "score_public": "Immediately score 1 public objective if you fulfill its requirements.",
+      "mecatol_bonus": "Gain 1 victory point if you control Mecatol Rex; otherwise, draw 1 secret objective."
+    },
+    "secondary": {
+      "draw_secret": "Spend 1 token from your strategy pool to draw 1 secret objective."
+    }
+  }
+]

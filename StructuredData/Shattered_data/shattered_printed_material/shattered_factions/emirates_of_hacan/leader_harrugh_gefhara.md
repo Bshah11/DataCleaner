@@ -1,0 +1,7 @@
+# FACTION: Emirates of Hacan
+## TYPE: Leader (hero)
+### COMPONENT: Harrugh Gefhara
+
+**Unlock Condition**: Have 3 scored objectives.
+
+**Ability**: Galactic Securities Net: When 1 or more of your units use PRODUCTION: You may reduce the cost of each of your units to 0 during this use of PRODUCTION. If you do, purge this card.

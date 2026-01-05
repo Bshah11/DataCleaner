@@ -1,0 +1,7 @@
+# FACTION: Arborec
+## TYPE: Leader (agent)
+### COMPONENT: Letani Ospha
+
+**Unlock Condition**: None
+
+**Ability**: ACTION: Exhaust this card and choose a player's non-fighter ship; that player may replace that ship with one from their reinforcements that costs up to 2 more than the replaced ship.

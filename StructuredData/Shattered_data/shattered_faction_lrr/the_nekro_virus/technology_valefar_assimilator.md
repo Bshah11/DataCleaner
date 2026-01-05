@@ -1,0 +1,32 @@
+# LRR CLARIFICATION: The Nekro Virus
+## TYPE: Technology
+### COMPONENT: Valefar Assimilator
+#### ID: the_nekro_virus_valefar_assimilator
+
+1. When copying another technology, eachValefar Assimilatorretains its original text; it may later be used to copy a different faction technology.
+2. When copying another technology,Valefar Assimilatorwill retain its exhausted/readied state. It will not copy the target technology’s exhausted/readied state.
+3. The Nekro player may use any ability of the copied technology that does not require exhausting as a cost, even if theValefar Assimilatorcard is exhausted.
+4. An exhaustedValefar Assimilatorwill always ready during the Status Phase, even if it is not currently copying a technology with an exhaust ability.
+5. If the Nekro player would copy a faction–specific unit upgrade, and they are already copying a faction–specific unit upgrade of the same type, they must use the same Valefar Assimilator token; they lose the previous faction unit upgrade.
+6. The Nekro player cannot copy faction–specific units that have not been upgraded.
+7. A faction’s mech is not a technology. The Nekro player cannot use aValefar Assimilatorto copy a mech.
+8. If the Nekro player has a generic unit upgrade, and gains a faction–specific unit upgrade, then the faction–specific version will be in effect. If the faction–specific unit upgrade is later lost, they revert to the generic unit upgrade.
+9. Owning two unit upgrades for the same type of unit in this manner only counts as one unit upgrade towards theDevelop WeaponryandRevolutionize Warfareobjectives.
+10. If the Nekro player gains a faction–specific infantry unit upgrade technology while they own the generic Infantry II unit upgrade technology and they have infantry on that unit upgrade card that would be placed in their home system at the start of their next turn, then those infantry are transferred to theValefar Assimilatorcard that they are using to copy the faction–specific infantry unit upgrade.
+11. If another player returns a technology which is currently being copied by aValefar Assimilator, it will remain copied with a Valefar Assimilator token on it while in that player’s technology deck.
+12. For theAdapt New Strategiesobjective, aValefar Assimilatortechnology will count if and only if it is currently copying another technology.
+13. For notes about technologies of a specific faction, see that faction’s notes.
+14. If the Nekro player has copied certain technology (possibly two or more at different points in time), the following apply:
+15. If both the Saar player’s Floating Factory II unit upgrade and the Vuil’raith player’sVortextechnology are copied, and another player blockades a Nekro space dock, the Nekro player returns any captured units, then destroys the blockaded space dock.
+16. If both the Letnev player’sNon–Euclidean Shieldingtechnology and the genericDuranium Armortechnology are copied, then a space combat between the Nekro player and the Letnev player in certain circumstances may result in neither player being able to win. If this happens, the attacker must declare a retreat. If the attacker cannot do so, they destroy all their units in that combat.
+17. If both the Muaat player’sMagmus Reactortechnology and the Saar player’s Floating Factory II unit upgrade are copied, the Nekro player may move their space docks into supernovae.
+18. If the Saar player’s Floating Factory II unit upgrade is copied, both the Nekro player and the Saar player may have their space docks in the same system, if there are no ships in that system.
+19. If the N’orr player’s Exotrireme II unit upgrade is copied, and the Nekro player is in a combat with the N’orr player, then the players will alternate when resolving end of combat round abilities, starting with the active player (all players may resolve abilities in initiative order, but it is most common for only the two players involved in the combat to want to resolve abilities). For example, if the attacking player has two Exotriremes II in the system and the defender has four, assuming both players are hostile towards each other, the most likely sequence is as follows: The attacker activates one of their Exotriremes II, leaving them with one and the defender with two; The defender activates one of their Exotriremes II leaving them with one and the attacker with none.
+20. If the Deepwrought player’sRadical Advancementtechnology is copied, the Nekro player may resolve its ability, and will gain the chosen new technology; they will not gain command tokens.
+21. The Nekro player may lose a technology if they copy a new one. If they lose certain technologies, the following apply:
+22. If the Saar player’s Floating Factory II is lost, each space dock the Nekro player controls must be placed on a planet they control in the same system, or the space dock is removed.
+23. If the Muaat player’s Prototype War Sun II is lost, and the Nekro player does not have the generic war sun technology, each of their war suns are removed from the game board.
+24. If the Muaat player’sMagmus Reactoris lost, the Nekro player’s units may remain in and move out of any supernovae they are currently in, but cannot move additional units into or through.
+25. If the Vuil’raith player’s Dimensional Tear II is lost, the dimensional tear tokens are removed from under the Nekro player’s space docks; the systems are no longer gravity rifts (unless the system tile is a printed gravity rift).
+26. If a unit upgrade that provides that unit with theSustain Damageability is lost, any damaged units will remain damaged, until either the status phase or another effect repairs them.
+27. The Nekro player may lose a faction–specific infantry unit upgrade technology, while they have infantry on the unit upgrade card that would be placed in their home system at the start of their next turn. If they are moving the Valefar Assimilator token to a different faction–specific infantry unit upgrade technology, the infantry remain on theValefar Assimilatorcard. Else, if they own the generic Infantry II unit upgrade technology, the infantry are transferred to that unit upgrade card. Otherwise, the infantry are returned to the Nekro player’s reinforcements.
